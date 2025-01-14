@@ -13,8 +13,11 @@
             justify-content: center;
             align-items: center;
             min-height: 100vh;
-            background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
-            font-family: Arial, sans-serif;
+            /* background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+            font-family: Arial, sans-serif; */
+            background-image: url('media/fonas.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
         }
 
         .container {
@@ -93,6 +96,13 @@
             font-size: 20px;
             /* box-shadow: 0 2px 5px rgba(0,0,0,0.1);
             flex-shrink: 0; */
+        }
+
+        .logo {
+            position: fixed;
+            top: 20px;
+            left: 20px;
+            padding: 10px 20px;
         }
 
         .counter {
@@ -253,6 +263,9 @@
     </style>
 </head>
 <body>
+    <div class="logo">
+        <img src="media\Dr. Knows.png" alt="Logo" width="200"> 
+    </div>
     <div class="counter">
         Go to card: 
         <input type="number" id="cardInput" min="1" placeholder="#">

@@ -40,7 +40,20 @@
             flex-direction: column;
             pointer-events: none;
             opacity: 0;
+            background-image: url('media/border.png');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
         }
+
+        /* .card a {
+            position: absolute;
+            width: inherit;
+            height: inherit;
+            border: solid 1px red;
+            top: 0px;
+            left: 0px;
+        } */
 
         .card.visible {
             opacity: 1;
@@ -54,15 +67,16 @@
             text-align: center;
             color: #2c3e50;
             margin: 0 0 15px 0;
-            font-size: 24px;
+            font-size: 28px;
             position: relative;
             padding-bottom: 10px;
         }
 
         .word-list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
+            list-style: auto;
+            padding: 8px;
+            margin-left: 16px;
+            margin-right: 16px;
             flex-grow: 1;
             display: flex;
             flex-direction: column;
@@ -70,15 +84,15 @@
         }
 
         .word-list li {
-            padding: 8px;
+            /* padding: 8px;
             margin: 4px 0;
             background: #f8f9fa;
-            border-radius: 10px;
-            text-align: center;
-            color: #495057;
-            font-size: 16px;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-            flex-shrink: 0;
+            border-radius: 10px; */
+            text-align: start;
+            /* color: #495057; */
+            font-size: 20px;
+            /* box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            flex-shrink: 0; */
         }
 
         .counter {
@@ -254,7 +268,8 @@
 
     <div class="nav-arrow prev" onclick="navigateCards('prev')">←</div>
     <div class="nav-arrow next" onclick="navigateCards('next')">→</div>
-    <div class="container" id="cardContainer"></div>
+    <div class="container" id="cardContainer">
+    </div>
     <div class="instructions">Swipe, use arrows, or type card number to navigate</div>
 
     <script>
@@ -304,12 +319,16 @@
             groups.forEach((group, index) => {
                 const card = document.createElement('div');
                 card.className = 'card';
+
+                // const background = document.createElement('img');
+                // background.src = 'media/border.png';
+                // card.appendChild(background);
                 
                 const title = document.createElement('h2');
                 title.textContent = group.Group;
                 card.appendChild(title);
 
-                const list = document.createElement('ul');
+                const list = document.createElement('ol');
                 list.className = 'word-list';
                 
                 group.Words.forEach(word => {

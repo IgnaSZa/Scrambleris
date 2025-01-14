@@ -1,0 +1,4630 @@
+[
+  {
+      "Group": "Group 0",
+      "Words": [
+          "Word 1",
+          "Word 2",
+          "Word 3",
+          "Word 4",
+          "Word 5",
+          "Word 6",
+          "Word 7",
+          "Word 8"
+      ]
+  },
+  {
+      "Group": "Group 1",
+      "Words": [
+          "Albinizmas",
+          "Endoprotezavimas",
+          "Plaučių vartai",
+          "Midriazė",
+          "Transseksualumas",
+          "Aniridija",
+          "K. pneumoniae",
+          "Mejozė"
+      ]
+  },
+  {
+      "Group": "Group 2",
+      "Words": [
+          "Egzostozė",
+          "Tremoras",
+          "Konvulsijos",
+          "Nutukimo chirurgija",
+          "Granulioma",
+          "Karvedilolis",
+          "Tiopentalis",
+          "Hallux valgus"
+      ]
+  },
+  {
+      "Group": "Group 3",
+      "Words": [
+          "Kalcis",
+          "Orchiektomija",
+          "Termometras",
+          "Amoksicilinas",
+          "Mirštamumas",
+          "Cholinoblokatoriai",
+          "Eutanazija",
+          "Leukocitas"
+      ]
+  },
+  {
+      "Group": "Group 4",
+      "Words": [
+          "Peloidoterapija",
+          "L. pneumophila",
+          "Hepatitas A",
+          "Empirinė terapija",
+          "Incizija",
+          "Adenoma",
+          "Deoksigenacija",
+          "Ketonurija"
+      ]
+  },
+  {
+      "Group": "Group 5",
+      "Words": [
+          "Fenilefrinas",
+          "Raiščiai",
+          "Karboplatina",
+          "Fleksija",
+          "Proliferacija",
+          "Osmosas",
+          "Skonis",
+          "C. pneumoniae"
+      ]
+  },
+  {
+      "Group": "Group 6",
+      "Words": [
+          "TNF-α",
+          "Protrombinas",
+          "Pseudoefedrinas",
+          "Hipomagnezemija",
+          "Hidropneumotoraksas",
+          "S. mutans",
+          "Sinapsė",
+          "Limfangioma"
+      ]
+  },
+  {
+      "Group": "Group 7",
+      "Words": [
+          "Mitralinis vožtuvas",
+          "Steroidai",
+          "Gigantizmas",
+          "Odena",
+          "Etilenglikolis",
+          "Ezetimibas",
+          "TEE",
+          "Sėklidės prielipas"
+      ]
+  },
+  {
+      "Group": "Group 8",
+      "Words": [
+          "Acetoacetatas",
+          "Maitinimas",
+          "Sternotomija",
+          "Lygusis miocitas",
+          "Kiršnerio viela",
+          "Nekrozė",
+          "Cl. tetani",
+          "Metadonas"
+      ]
+  },
+  {
+      "Group": "Group 9",
+      "Words": [
+          "Leiomiosarkoma",
+          "ApoB",
+          "Aspirinas",
+          "MVN",
+          "Citoskeletas",
+          "H2O2",
+          "T. vaginalis",
+          "Kirkšnies kanalas"
+      ]
+  },
+  {
+      "Group": "Group 10",
+      "Words": [
+          "Asbestas",
+          "Likvorėja",
+          "Mažasis dubuo",
+          "Protinis atsilikimas",
+          "V. cholerae",
+          "Bilirubinemija",
+          "Viremija",
+          "Orchitas"
+      ]
+  },
+  {
+      "Group": "Group 11",
+      "Words": [
+          "Kardiochirurgija",
+          "Palpitacija",
+          "Diarėja",
+          "Adhezija",
+          "Nugarinis mazgas",
+          "PSA",
+          "Imobilizacija",
+          "Diferenciacija"
+      ]
+  },
+  {
+      "Group": "Group 12",
+      "Words": [
+          "Spondiloartrozė",
+          "Truso požymis",
+          "Propranololis",
+          "Kortikoliberinas",
+          "MTL",
+          "Uoslė",
+          "Prazosinas",
+          "VĮP"
+      ]
+  },
+  {
+      "Group": "Group 13",
+      "Words": [
+          "Skiltinė pneumonija",
+          "Bromazepamas",
+          "Mirtingumas",
+          "Takotsubo KMP",
+          "Alveolinis makrofagas",
+          "Kifoskoliozė",
+          "Kalcitoninas",
+          "Menorėja"
+      ]
+  },
+  {
+      "Group": "Group 14",
+      "Words": [
+          "Seilių amilazė",
+          "Centrifugavimas",
+          "Hipertiroidizmas",
+          "Plaučių emfizema",
+          "Angina",
+          "Virpamasis epitelis",
+          "Chloroma",
+          "Hiperplazija"
+      ]
+  },
+  {
+      "Group": "Group 15",
+      "Words": [
+          "Malignizacija",
+          "Bisinozė",
+          "Putotosios ląstelės",
+          "Diplokokai",
+          "N2O",
+          "Gyvensena",
+          "Nugarinis nervas",
+          "Kvėpavimas"
+      ]
+  },
+  {
+      "Group": "Group 16",
+      "Words": [
+          "Renatūracija",
+          "Gimdos kaklelis",
+          "Trepanobiopsija",
+          "Paprastoji pūslelinė",
+          "Ūžesys",
+          "Inksto piramidė",
+          "Ambu maišas",
+          "Nekrozinis fasciitas"
+      ]
+  },
+  {
+      "Group": "Group 17",
+      "Words": [
+          "Karboanhidrazė",
+          "Ivabradinas",
+          "Formaldehidas",
+          "Na/K–ATP-azė",
+          "Imunostimuliatoriai",
+          "Doksiciklinas",
+          "Čiaudulys",
+          "Rivaroksabanas"
+      ]
+  },
+  {
+      "Group": "Group 18",
+      "Words": [
+          "Kraujodara",
+          "Trijodtironinas",
+          "Spirometrija",
+          "Acetonas",
+          "EMA",
+          "Oseltamiviras",
+          "Širdies viršūnė",
+          "Kūdikis"
+      ]
+  },
+  {
+      "Group": "Group 19",
+      "Words": [
+          "Natris",
+          "Farmakokinetika",
+          "Aneurizma",
+          "IL-1",
+          "Revaskulizacija",
+          "Henlės kilpa",
+          "Tulžies pūslė",
+          "AV gaištis"
+      ]
+  },
+  {
+      "Group": "Group 20",
+      "Words": [
+          "Endoteliocitas",
+          "Imunosupresantai",
+          "Estradiolis",
+          "Teratogenas",
+          "RSV",
+          "Budezonidas",
+          "Tenezmai",
+          "Kamieninė ląstelė"
+      ]
+  },
+  {
+      "Group": "Group 21",
+      "Words": [
+          "Fenitoinas",
+          "Tiklopidinas",
+          "Hemoperikardas",
+          "Skilvelis",
+          "Lobektomija",
+          "Panikuliozė",
+          "ŽIV infekcija",
+          "Leukotrienai"
+      ]
+  },
+  {
+      "Group": "Group 22",
+      "Words": [
+          "Juodligė",
+          "Hernioplastika",
+          "Gametogenezė",
+          "Bradiaritmija",
+          "Mitochondrija",
+          "Cikloplegija",
+          "Askorbo rūgštis",
+          "Malnutricija"
+      ]
+  },
+  {
+      "Group": "Group 23",
+      "Words": [
+          "Atopija",
+          "Osteoartritas",
+          "Trachėja",
+          "Aklumas",
+          "Riestinė žarna",
+          "Purkinje skaidulos",
+          "PGR",
+          "Chemoreceptoriai"
+      ]
+  },
+  {
+      "Group": "Group 24",
+      "Words": [
+          "Sporos",
+          "Tigroidinė širdis",
+          "Dieglys",
+          "Pieno liaukos",
+          "Akloji žarna",
+          "C. albicans",
+          "Termoreguliacija",
+          "Chloroformas"
+      ]
+  },
+  {
+      "Group": "Group 25",
+      "Words": [
+          "Hepatitas B",
+          "Neurochirurgas",
+          "Traukuliai",
+          "Hospitalinė infekcija",
+          "Pakinklis",
+          "Vankomicinas",
+          "Reaktyvusis artritas",
+          "Tėkmės citometrija"
+      ]
+  },
+  {
+      "Group": "Group 26",
+      "Words": [
+          "Makulopatija",
+          "Klajoklis nervas",
+          "E. faecium",
+          "Landuonis",
+          "Mikrofagai",
+          "MI",
+          "Pleiskanos",
+          "Kolchicinas"
+      ]
+  },
+  {
+      "Group": "Group 27",
+      "Words": [
+          "Balneoterapija",
+          "Achalazija",
+          "Levodopa",
+          "Hidrocelė",
+          "Chilotoraksas",
+          "Ludwig angina",
+          "Pediatras",
+          "Endokarditas"
+      ]
+  },
+  {
+      "Group": "Group 28",
+      "Words": [
+          "Gomurys",
+          "Fobijos",
+          "Plokštelė",
+          "Talasemija",
+          "Hipokalcemija",
+          "Echoskopija",
+          "Daltonizmas",
+          "Abscesas"
+      ]
+  },
+  {
+      "Group": "Group 29",
+      "Words": [
+          "Ramiprilis",
+          "Paauglys",
+          "Disfagija",
+          "Laktacidemija",
+          "Rigor mortis",
+          "Replikacija",
+          "Ototoksiškumas",
+          "Recipientas"
+      ]
+  },
+  {
+      "Group": "Group 30",
+      "Words": [
+          "Reninas",
+          "Azitromicinas",
+          "Gaidžio skiauterė",
+          "ALT",
+          "Odontologija",
+          "Disforija",
+          "Blastai",
+          "Pamatinė arterija"
+      ]
+  },
+  {
+      "Group": "Group 31",
+      "Words": [
+          "Receptas",
+          "Daugiapolis neuronas",
+          "Redukcija",
+          "P. ovale",
+          "HBV",
+          "Parezė",
+          "Genotipas",
+          "NaCl"
+      ]
+  },
+  {
+      "Group": "Group 32",
+      "Words": [
+          "Širdies ausytė",
+          "Dismenorėja",
+          "Onkologas",
+          "Epigastriumas",
+          "Streptokinazė",
+          "Seilės",
+          "TXA2",
+          "Hiperglikemija"
+      ]
+  },
+  {
+      "Group": "Group 33",
+      "Words": [
+          "Skydinė kremzlė",
+          "Tachikardija",
+          "Arterinis raištis",
+          "Kreivakaklystė",
+          "Rentgenoskopija",
+          "Vegetarizmas",
+          "Perikarditas",
+          "Hipercholesterolemija"
+      ]
+  },
+  {
+      "Group": "Group 34",
+      "Words": [
+          "Vit. E",
+          "Imunologija",
+          "Premedikacija",
+          "Mikroflora",
+          "MRT",
+          "AKS",
+          "Respiracinė aritmija",
+          "Kinetozė"
+      ]
+  },
+  {
+      "Group": "Group 35",
+      "Words": [
+          "Hipokrato priesaika",
+          "Hemoglobinas",
+          "Priešpienis",
+          "Antidepresantai",
+          "Tracheobronchitas",
+          "Sritiniai l/m",
+          "Imunoprofilaktika",
+          "Išsėtinė sklerozė"
+      ]
+  },
+  {
+      "Group": "Group 36",
+      "Words": [
+          "Recidyvas",
+          "Disdiadochokinezė",
+          "Hiperventiliacija",
+          "Miozė",
+          "Vidurinė ausis",
+          "Diskinezija",
+          "Turniketas",
+          "Embolas"
+      ]
+  },
+  {
+      "Group": "Group 37",
+      "Words": [
+          "Askaridė",
+          "Pacientas",
+          "HLA",
+          "Sfigmomanometras",
+          "Darbo medicina",
+          "Omalizumabas",
+          "Karpa",
+          "Kasos galva"
+      ]
+  },
+  {
+      "Group": "Group 38",
+      "Words": [
+          "IASF",
+          "p53",
+          "Mezenchima",
+          "Mikrogenija",
+          "Pseudoartrozė",
+          "Necukrinis diabetas",
+          "Barreto stemplė",
+          "Artrotomija"
+      ]
+  },
+  {
+      "Group": "Group 39",
+      "Words": [
+          "Prokalcitoninas",
+          "Lipolizė",
+          "Endotelis",
+          "Endolimfa",
+          "Parkinsonizmas",
+          "Vidurių šiltinė",
+          "Inkstų arterijos",
+          "Aritmija"
+      ]
+  },
+  {
+      "Group": "Group 40",
+      "Words": [
+          "Simptomas",
+          "Atelektazė",
+          "Bronchinis medis",
+          "Kupferio ląstelė",
+          "Astenija",
+          "Mikropenis",
+          "DASH dieta",
+          "Prasugrelis"
+      ]
+  },
+  {
+      "Group": "Group 41",
+      "Words": [
+          "Tikagreloras",
+          "Malabsorbcija",
+          "Gaktos kalva",
+          "UV indeksas",
+          "Leukociturija",
+          "Kraujas",
+          "Cefazolinas",
+          "Hemomediastinumas"
+      ]
+  },
+  {
+      "Group": "Group 42",
+      "Words": [
+          "Homozigotas",
+          "Tiflitas",
+          "BAL",
+          "Cl. botulinum",
+          "Vit. B",
+          "Tetraplegija",
+          "Antipsichotikai",
+          "Cefalosporinazės"
+      ]
+  },
+  {
+      "Group": "Group 43",
+      "Words": [
+          "Cholesterolis",
+          "Junginė",
+          "Ortostatinė hipotenzija",
+          "TTE",
+          "Ovalioji anga",
+          "Kontraktūra",
+          "Greivso liga",
+          "Liga"
+      ]
+  },
+  {
+      "Group": "Group 44",
+      "Words": [
+          "Virilizmas",
+          "Estrogenai",
+          "Amiloidozė",
+          "Sterilizacija",
+          "Fagedena",
+          "Leukoplakija",
+          "Botulizmas",
+          "Defibriliacija"
+      ]
+  },
+  {
+      "Group": "Group 45",
+      "Words": [
+          "Trigerinis taškas",
+          "Levofloksacinas",
+          "Pneumotoraksas",
+          "Amonio ragas",
+          "Osteoklastas",
+          "Finerenonas",
+          "Vena",
+          "DTP vakcina"
+      ]
+  },
+  {
+      "Group": "Group 46",
+      "Words": [
+          "Rabdomiosarkoma",
+          "Melatoninas",
+          "LT4",
+          "Reiterio sindromas",
+          "Dekstrokardija",
+          "NO",
+          "Lytinė branda",
+          "Infektologas"
+      ]
+  },
+  {
+      "Group": "Group 47",
+      "Words": [
+          "Einthoveno trikampis",
+          "Lavažas",
+          "Krūtininis latakas",
+          "Skaidulos",
+          "Kolonizacija",
+          "Slankstelis",
+          "Karo medicina",
+          "Atlantas"
+      ]
+  },
+  {
+      "Group": "Group 48",
+      "Words": [
+          "Kontaminacija",
+          "Metilprednizolonas",
+          "Vidurinis nervas",
+          "Jodas",
+          "Lavondėmės",
+          "Respiracinė acidozė",
+          "Gipso longetė",
+          "Neurastenija"
+      ]
+  },
+  {
+      "Group": "Group 49",
+      "Words": [
+          "Egzema",
+          "Chlamidijos",
+          "Laringospazmas",
+          "Tachipnėja",
+          "Ascitas",
+          "Antinksčių šerdis",
+          "Ejakuliacija",
+          "Anti-onkogenai"
+      ]
+  },
+  {
+      "Group": "Group 50",
+      "Words": [
+          "Alteplazė",
+          "Plazminogenas",
+          "Grįžtamasis ryšys",
+          "Kepenų vartai",
+          "Ribozė",
+          "Mioepiteliocitas",
+          "Amlodipinas",
+          "Giardiazė"
+      ]
+  },
+  {
+      "Group": "Group 51",
+      "Words": [
+          "Bradikininas",
+          "Ruožuotasis miocitas",
+          "Epidurinis tarpas",
+          "LPS",
+          "Kraniofaringioma",
+          "Fibrosarkoma",
+          "Leidigo ląstelė",
+          "Gentamicinas"
+      ]
+  },
+  {
+      "Group": "Group 52",
+      "Words": [
+          "Priešinė liauka",
+          "Vidinė ausis",
+          "EBV",
+          "Petri lėkštelė",
+          "Fraksiparinas",
+          "Pilvo angina",
+          "EKG",
+          "Zigota"
+      ]
+  },
+  {
+      "Group": "Group 53",
+      "Words": [
+          "Tinklainė",
+          "Hiperpigmentacija",
+          "Izopropanolis",
+          "GVT",
+          "Flebotomija",
+          "Linkozamidai",
+          "Krūtinės ertmė",
+          "Mielosupresija"
+      ]
+  },
+  {
+      "Group": "Group 54",
+      "Words": [
+          "Klemastinas",
+          "PSIP",
+          "Somatostatinas",
+          "Adrenalektomija",
+          "Tikarcilinas",
+          "Sunkioji miastenija",
+          "Storoji žarna",
+          "Kolonoskopija"
+      ]
+  },
+  {
+      "Group": "Group 55",
+      "Words": [
+          "Diazepamas",
+          "Kliedesiai",
+          "Laringitas",
+          "PQ intervalas",
+          "Liga",
+          "Akomodacija",
+          "Kiaušialąstė",
+          "Sėklidės"
+      ]
+  },
+  {
+      "Group": "Group 56",
+      "Words": [
+          "Genetika",
+          "IgG",
+          "Koronarografija",
+          "Emolientai",
+          "Cholinomimetikai",
+          "C. burnetii",
+          "GABA",
+          "Hipoparatiroidizmas"
+      ]
+  },
+  {
+      "Group": "Group 57",
+      "Words": [
+          "Respiracinė alkalozė",
+          "Etiopatogenezė",
+          "Semaglutidas",
+          "Homunkulas",
+          "Fotofobija",
+          "Sterilizacija",
+          "Laidas",
+          "Laivelis"
+      ]
+  },
+  {
+      "Group": "Group 58",
+      "Words": [
+          "Imunograma",
+          "Receptorius",
+          "Pelagra",
+          "DNR",
+          "Daunorubicinas",
+          "Gliukoneogenezė",
+          "Anijonas",
+          "Epikardas"
+      ]
+  },
+  {
+      "Group": "Group 59",
+      "Words": [
+          "Širdies tamponada",
+          "Gimdymas",
+          "Enterocitas",
+          "PV",
+          "Anomalija",
+          "Hašimoto tiroiditas",
+          "Ciklofosfamidas",
+          "Serumas"
+      ]
+  },
+  {
+      "Group": "Group 60",
+      "Words": [
+          "Epifizė",
+          "Tarpinės smegenys",
+          "Odinofagija",
+          "BRCA1",
+          "Chloramfenikolis",
+          "Fliudrokortizonas",
+          "Skydliaukė",
+          "Cistinė fibrozė"
+      ]
+  },
+  {
+      "Group": "Group 61",
+      "Words": [
+          "Menopauzė",
+          "Šalutiniai raiščiai",
+          "Išgyvenamumas",
+          "Diskas",
+          "Bakteriurija",
+          "Skotoma",
+          "Piramidinis neuronas",
+          "Mikrohematurija"
+      ]
+  },
+  {
+      "Group": "Group 62",
+      "Words": [
+          "Flumazenilis",
+          "Nudegimas",
+          "Hipoderma",
+          "Specifiškumas",
+          "Kreatinas",
+          "Juosmeninė punkcija",
+          "VVKT",
+          "DEXA"
+      ]
+  },
+  {
+      "Group": "Group 63",
+      "Words": [
+          "Hemoglobinemija",
+          "Ilgaamžiškumas",
+          "Dietologas",
+          "Vit. A",
+          "Maras",
+          "Metastazė",
+          "Aloantigenai",
+          "Osteocitas"
+      ]
+  },
+  {
+      "Group": "Group 64",
+      "Words": [
+          "Prognozė",
+          "Kaulų čiulpai",
+          "Levino požymis",
+          "Piperacilinas",
+          "Pūkšlė",
+          "Levamizolis",
+          "U. urealyticum",
+          "Hipospadija"
+      ]
+  },
+  {
+      "Group": "Group 65",
+      "Words": [
+          "Etambutolis",
+          "Polifagija",
+          "Hiperfosfatemija",
+          "Difuzija",
+          "Poliurija",
+          "Akatizija",
+          "Acetaldehidas",
+          "Antkaulis"
+      ]
+  },
+  {
+      "Group": "Group 66",
+      "Words": [
+          "Vit. H",
+          "Apžiūra",
+          "Sukcinilcholinas",
+          "Kasos salelė",
+          "Kaktikaulio antis",
+          "Kempinligė",
+          "Cefalosporinai",
+          "Koronavirusas"
+      ]
+  },
+  {
+      "Group": "Group 67",
+      "Words": [
+          "Epigenetika",
+          "Plaučių karcinoma",
+          "Miego arterija",
+          "Baltoji linija",
+          "Hiperurikozurija",
+          "Hepatalgija",
+          "Mielopatija",
+          "Kontraceptikai"
+      ]
+  },
+  {
+      "Group": "Group 68",
+      "Words": [
+          "VZV",
+          "ŪML",
+          "Ausies kaušelis",
+          "Asteriksis",
+          "Oligodendrocitas",
+          "Polimiozitas",
+          "Osmodiuretikai",
+          "Nazofaringitas"
+      ]
+  },
+  {
+      "Group": "Group 69",
+      "Words": [
+          "Histerektomija",
+          "Spermatozoidas",
+          "Šašas",
+          "MCH",
+          "Ejakuliatas",
+          "Vidurinės smegenys",
+          "Tiogabinas",
+          "Hemofilija B"
+      ]
+  },
+  {
+      "Group": "Group 70",
+      "Words": [
+          "Hipertrichozė",
+          "In vivo",
+          "Seruminė liga",
+          "Snapinė atauga",
+          "Peršalimas",
+          "Tonometrija",
+          "Chlorambucilas",
+          "Baltoji medžiaga"
+      ]
+  },
+  {
+      "Group": "Group 71",
+      "Words": [
+          "Genų terapija",
+          "Šeivikaulis",
+          "Fistulė",
+          "Penicilinas G",
+          "Makštis",
+          "Hemagliutininas",
+          "Dinamometras",
+          "Limfoma"
+      ]
+  },
+  {
+      "Group": "Group 72",
+      "Words": [
+          "Albendazolas",
+          "Angiochirurgas",
+          "Meningokokemija",
+          "AH",
+          "Gonorėja",
+          "Eritromelalgija",
+          "Prionai",
+          "Hemagliutinacija"
+      ]
+  },
+  {
+      "Group": "Group 73",
+      "Words": [
+          "Ebolos virusas",
+          "Kardioversija",
+          "Blauzdikaulis",
+          "Dizartrija",
+          "Kraniotomija",
+          "Ganglionas",
+          "Telomerai",
+          "Hiperchromija"
+      ]
+  },
+  {
+      "Group": "Group 74",
+      "Words": [
+          "Nefrologas",
+          "Genai",
+          "Skausmo vieta",
+          "Kapsidė",
+          "CO",
+          "A. baumannii",
+          "Gama peilis",
+          "Mikroskopija"
+      ]
+  },
+  {
+      "Group": "Group 75",
+      "Words": [
+          "Pulsinis spaudimas",
+          "Citarabinas",
+          "Įtvaras",
+          "Fibrinogenas",
+          "Hipertrigliceridemija",
+          "Hirsutizmas",
+          "Šlapalas",
+          "Ginekologas"
+      ]
+  },
+  {
+      "Group": "Group 76",
+      "Words": [
+          "Vaskulopatija",
+          "Lateksas",
+          "Desmopresinas",
+          "Furozemidas",
+          "I tonas",
+          "Simpatinis kamienas",
+          "Gallop’o ritmas",
+          "Dermatoskopas"
+      ]
+  },
+  {
+      "Group": "Group 77",
+      "Words": [
+          "Glikogenezė",
+          "Miegas",
+          "Lytis",
+          "Veganizmas",
+          "LOPL",
+          "Dendritai",
+          "Pejerio plokštelės",
+          "Narkozė"
+      ]
+  },
+  {
+      "Group": "Group 78",
+      "Words": [
+          "Bronchopneumonija",
+          "Plokščiapėdystė",
+          "Subdurinis tarpas",
+          "Žvaigždinis mazgas",
+          "Siūliniai speneliai",
+          "Piromanija",
+          "Saulės smūgis",
+          "Pirogenai"
+      ]
+  },
+  {
+      "Group": "Group 79",
+      "Words": [
+          "Kontraindikacijos",
+          "Oportunistinė infekcija",
+          "Hematologas",
+          "Rankų plovimas",
+          "Disfonija",
+          "Abetalipoproteinemija",
+          "Ašarų liauka",
+          "Chemokinai"
+      ]
+  },
+  {
+      "Group": "Group 80",
+      "Words": [
+          "Aminopenicilinai",
+          "Adrenoblokatoriai",
+          "Hiponatremija",
+          "Ksantoma",
+          "Vaisto klirensas",
+          "Haptenai",
+          "Uodegikaulis",
+          "FSH"
+      ]
+  },
+  {
+      "Group": "Group 81",
+      "Words": [
+          "Vaikas",
+          "Trapumas",
+          "Katecholaminai",
+          "Tracheostoma",
+          "Hemoptizė",
+          "Skundai",
+          "Sirolimuzas",
+          "Peritonitas"
+      ]
+  },
+  {
+      "Group": "Group 82",
+      "Words": [
+          "Ciklosporinas",
+          "Ragena",
+          "Tachipsichizmas",
+          "Nukraujavimas",
+          "Alkalozė",
+          "Soporas",
+          "Pletora",
+          "Gonokokas"
+      ]
+  },
+  {
+      "Group": "Group 83",
+      "Words": [
+          "Ektopinis nėštumas",
+          "Epididimitas",
+          "Tvarsčiai",
+          "Paralyžius",
+          "T limfocitas",
+          "Anamnezė",
+          "Remodeliacija",
+          "Neostigminas"
+      ]
+  },
+  {
+      "Group": "Group 84",
+      "Words": [
+          "Kalmodulinas",
+          "Beikerio cista",
+          "Digoksinas",
+          "Prezervatyvas",
+          "Chininas",
+          "Anesteziologas",
+          "SAM",
+          "Naloksonas"
+      ]
+  },
+  {
+      "Group": "Group 85",
+      "Words": [
+          "Cl. perfringens",
+          "Salpingografija",
+          "Voko ptozė",
+          "T. pallidum",
+          "Spindulinė liga",
+          "Embolija",
+          "Faleno testas",
+          "Transplantologija"
+      ]
+  },
+  {
+      "Group": "Group 86",
+      "Words": [
+          "Trečiasis skilvelis",
+          "Koilonichija",
+          "Poodinis raumuo",
+          "Viskoziškumas",
+          "Dvyniai",
+          "Trikampis",
+          "KT",
+          "Dauno sindromas"
+      ]
+  },
+  {
+      "Group": "Group 87",
+      "Words": [
+          "Nistatinas",
+          "Nervas",
+          "Diltiazemas",
+          "Proteolizė",
+          "MRSA",
+          "Diuretikai",
+          "Hemoglobinopatija",
+          "Metacholinas"
+      ]
+  },
+  {
+      "Group": "Group 88",
+      "Words": [
+          "Ekstravazacija",
+          "Imunomoduliatoriai",
+          "Atkrytis",
+          "Hiperparatiroidizmas",
+          "Transmisija",
+          "Denatūracija",
+          "IGF-1",
+          "ATP"
+      ]
+  },
+  {
+      "Group": "Group 89",
+      "Words": [
+          "Inkstai",
+          "Chondromaliacija",
+          "Riebalų rūgštys",
+          "Eferentinis laidas",
+          "Kobalaminas",
+          "Trisomija",
+          "Gonados",
+          "Radiologas"
+      ]
+  },
+  {
+      "Group": "Group 90",
+      "Words": [
+          "Meduloblastoma",
+          "Insulinoma",
+          "Infekcija",
+          "Išorinė fiksacija",
+          "Hemoperitoneumas",
+          "Sacharinas",
+          "Fluorochinolonai",
+          "Lazeris"
+      ]
+  },
+  {
+      "Group": "Group 91",
+      "Words": [
+          "Citologija",
+          "Fizostigminas",
+          "Spermatogenezė",
+          "Stuporas",
+          "Bulimija",
+          "Klindamicinas",
+          "Teleangiektazijos",
+          "Amoksiklavas"
+      ]
+  },
+  {
+      "Group": "Group 92",
+      "Words": [
+          "Troponinas C",
+          "Nušalimas",
+          "Hemiplegija",
+          "Ekshibicionizmas",
+          "Taktilika",
+          "Mielodisplazija",
+          "Eritrocitopenija",
+          "Vartinė hipertenzija"
+      ]
+  },
+  {
+      "Group": "Group 93",
+      "Words": [
+          "qSOFA",
+          "Atmetimo kriterijai",
+          "Skoliozė",
+          "Sielvartas",
+          "Pneumokokas",
+          "Įskrandžio raukas",
+          "Sepsis",
+          "Hidroksiapatitas"
+      ]
+  },
+  {
+      "Group": "Group 94",
+      "Words": [
+          "RITS",
+          "Insulinas",
+          "Chlorokvinas",
+          "Astrocitoma",
+          "Kryžminis raištis",
+          "Papiloma",
+          "Raudonligė",
+          "Naltreksonas"
+      ]
+  },
+  {
+      "Group": "Group 95",
+      "Words": [
+          "Keturgalvis raumuo",
+          "Miksedema",
+          "Psilocibinas",
+          "Dujų apykaita",
+          "Širdies dėsnis",
+          "Hiperopija",
+          "Antinksčių žievė",
+          "Dobutaminas"
+      ]
+  },
+  {
+      "Group": "Group 96",
+      "Words": [
+          "EEG",
+          "Radikulopatija",
+          "Trombas",
+          "Bambos išvarža",
+          "Ternerio sindromas",
+          "Helsinkio deklaracija",
+          "Pantoprazolis",
+          "Endometriumas"
+      ]
+  },
+  {
+      "Group": "Group 97",
+      "Words": [
+          "Teratoma",
+          "Rožinė",
+          "Histologija",
+          "Skruostikaulis",
+          "Benzenas",
+          "S. epidermidis",
+          "Ovuliacija",
+          "ST segmentas"
+      ]
+  },
+  {
+      "Group": "Group 98",
+      "Words": [
+          "Lašelinė",
+          "Endotelinas",
+          "Hiperkorticizmas",
+          "Egzokrinocitas",
+          "Torsades de pointes",
+          "Ažitacija",
+          "Neurofibroma",
+          "Homograftas"
+      ]
+  },
+  {
+      "Group": "Group 99",
+      "Words": [
+          "C. psittaci",
+          "Onicholizė",
+          "Lopo mėginys",
+          "Alodinija",
+          "RA",
+          "Antgerklis",
+          "Nistagmas",
+          "B. anthracis"
+      ]
+  },
+  {
+      "Group": "Group 100",
+      "Words": [
+          "Ibuprofenas",
+          "Pankuroniumas",
+          "Bromokriptinas",
+          "SARS-CoV-2",
+          "Kateterizacija",
+          "Neurochirurgija",
+          "Glaukoma",
+          "Sėklinis latakas"
+      ]
+  },
+  {
+      "Group": "Group 101",
+      "Words": [
+          "Gaktikaulis",
+          "Agnozija",
+          "Tiesioji žarna",
+          "NT-proBNP",
+          "Aerobai",
+          "Galaktozė",
+          "Peritoninė dializė",
+          "Blusos"
+      ]
+  },
+  {
+      "Group": "Group 102",
+      "Words": [
+          "Brutono liga",
+          "Granuliocitopenija",
+          "Apšvita",
+          "Skopolaminas",
+          "Mėnulis",
+          "Bechterevo liga",
+          "Subdurinė hematoma",
+          "Methemoglobinemija"
+      ]
+  },
+  {
+      "Group": "Group 103",
+      "Words": [
+          "Nosikaulis",
+          "Imatinibas",
+          "Eplerenonas",
+          "Merkaptopurinas",
+          "Fluorozė",
+          "Pilokarpinas",
+          "Dismetrija",
+          "Katarakta"
+      ]
+  },
+  {
+      "Group": "Group 104",
+      "Words": [
+          "Poliakiurija",
+          "Higienos institutas",
+          "Laktozė",
+          "Mastektomija",
+          "Instrumentai",
+          "Biožymenys",
+          "PSDF",
+          "Pleuritas"
+      ]
+  },
+  {
+      "Group": "Group 105",
+      "Words": [
+          "Ksanteliazma",
+          "KHKB",
+          "Endokardas",
+          "Pulsoksimetras",
+          "Ginekologinė kėdė",
+          "Transplantacija",
+          "Enterotoksinas",
+          "Apklausa"
+      ]
+  },
+  {
+      "Group": "Group 106",
+      "Words": [
+          "Limfmazgiai",
+          "Lipoproteinas (a)",
+          "Aktinas",
+          "Tromboflebitas",
+          "S. saprophyticus",
+          "Vaisius",
+          "Peridontitas",
+          "Osmolizė"
+      ]
+  },
+  {
+      "Group": "Group 107",
+      "Words": [
+          "Angiografija",
+          "Trichobezoaras",
+          "Sinusinis ritmas",
+          "Respiratorius",
+          "Prakaito liaukos",
+          "Osteoartrozė",
+          "Gabapentinas",
+          "Rasė"
+      ]
+  },
+  {
+      "Group": "Group 108",
+      "Words": [
+          "Rinorėja",
+          "Melanoma",
+          "Stafilokokai",
+          "Traktografija",
+          "Vaskulitas",
+          "Anhidrozė",
+          "G. lamblia",
+          "Osteomaliacija"
+      ]
+  },
+  {
+      "Group": "Group 109",
+      "Words": [
+          "Tiroglobulinas",
+          "Alkoholizmas",
+          "Sraigtas",
+          "Siuvėjo raumuo",
+          "Poliklinika",
+          "Meniskas",
+          "Streptokokai",
+          "Tamoksifenas"
+      ]
+  },
+  {
+      "Group": "Group 110",
+      "Words": [
+          "HCO3-",
+          "Šlaunikaulis",
+          "Meningitas",
+          "Rotacija",
+          "Paraplegija",
+          "Derma",
+          "Stadiometras",
+          "RF"
+      ]
+  },
+  {
+      "Group": "Group 111",
+      "Words": [
+          "Haliucinogenai",
+          "Sveikata",
+          "Kirkšnies raištis",
+          "Apoptozė",
+          "Rėmuo",
+          "Cirozė",
+          "Piotoraksas",
+          "Neuraminidazė"
+      ]
+  },
+  {
+      "Group": "Group 112",
+      "Words": [
+          "Inkretinai",
+          "Deoksiribozė",
+          "Balizmas",
+          "Laimo liga",
+          "Milrinonas",
+          "Adaptacija",
+          "Hiperkoaguliacija",
+          "Leukemija"
+      ]
+  },
+  {
+      "Group": "Group 113",
+      "Words": [
+          "Meropenemas",
+          "Chirurginė infekcija",
+          "Tiroiditas",
+          "A. fumigatus",
+          "Transliacija",
+          "Įtraukimo kriterijai",
+          "Adipocitas",
+          "Sanatorija"
+      ]
+  },
+  {
+      "Group": "Group 114",
+      "Words": [
+          "Angioedema",
+          "Miopija",
+          "Karantinas",
+          "Cholera",
+          "Alkoholdehidrogenazė",
+          "Atmintis",
+          "Skystas muilas",
+          "Petinis rezginys"
+      ]
+  },
+  {
+      "Group": "Group 115",
+      "Words": [
+          "Hiperinsulinemija",
+          "Plonoji žarna",
+          "Aminai",
+          "Astma",
+          "Morfologija",
+          "Adenozinas",
+          "Mezoderma",
+          "Nifedipinas"
+      ]
+  },
+  {
+      "Group": "Group 116",
+      "Words": [
+          "Priklausomybė",
+          "Endokrinocitas",
+          "AKTH",
+          "Ajurveda",
+          "Manualinė terapija",
+          "Baltoji karštligė",
+          "Kriptorchizmas",
+          "Kolagenozės"
+      ]
+  },
+  {
+      "Group": "Group 117",
+      "Words": [
+          "Fenobarbitalis",
+          "Širdies trinksnis",
+          "Kaspofunginas",
+          "Hipoglikemija",
+          "Šveplavimas",
+          "Fibrinas",
+          "Folikulinė karcinoma",
+          "Žindymas"
+      ]
+  },
+  {
+      "Group": "Group 118",
+      "Words": [
+          "Trišakis nervas",
+          "Anatoksinas",
+          "Pulsas",
+          "Kalis",
+          "Psichostimuliantai",
+          "Ekscizija",
+          "Prieškrūvis",
+          "Sakroiliitas"
+      ]
+  },
+  {
+      "Group": "Group 119",
+      "Words": [
+          "Kraujo agaras",
+          "Gelta",
+          "Polidipsija",
+          "Kapšelis",
+          "Klubakaulis",
+          "COVID-19",
+          "Osteomielitas",
+          "Kurtumas"
+      ]
+  },
+  {
+      "Group": "Group 120",
+      "Words": [
+          "Akrocianozė",
+          "Monocitozė",
+          "Ortopnėja",
+          "Merkurializmas",
+          "Chemotaksis",
+          "Zolpidemas",
+          "Neurolemocitas",
+          "Hipokalemija"
+      ]
+  },
+  {
+      "Group": "Group 121",
+      "Words": [
+          "Hidroksikarbamidas",
+          "AKD tyrimas",
+          "Trachėjos atrezija",
+          "Ektoderma",
+          "Elektrokoaguliacija",
+          "Ketoniniai kūnai",
+          "Mediastinitas",
+          "Maltozė"
+      ]
+  },
+  {
+      "Group": "Group 122",
+      "Words": [
+          "Leptinas",
+          "Aksonas",
+          "CV kateteris",
+          "Distrofinas",
+          "Tuščioji vena",
+          "Doksorubicinas",
+          "Onichomikozė",
+          "Ligonių kasos"
+      ]
+  },
+  {
+      "Group": "Group 123",
+      "Words": [
+          "Akis",
+          "Gleivinė",
+          "Vena contracta",
+          "Manžetė",
+          "Kaliusas",
+          "Berkito limfoma",
+          "Piktybinis navikas",
+          "Torakocentezė"
+      ]
+  },
+  {
+      "Group": "Group 124",
+      "Words": [
+          "Amoniakas",
+          "Menoragija",
+          "Termoreceptoriai",
+          "Antraciklinai",
+          "Rožė",
+          "Megakolonas",
+          "Osteoma",
+          "Gyslainė"
+      ]
+  },
+  {
+      "Group": "Group 125",
+      "Words": [
+          "Prakaitas",
+          "STEMI",
+          "Veikimo potencialas",
+          "KŽI",
+          "Krupas",
+          "Veninis rezginys",
+          "Pūlingas hidradenitas",
+          "Diabetinė pėda"
+      ]
+  },
+  {
+      "Group": "Group 126",
+      "Words": [
+          "Pasaito arterija",
+          "Tolerancija",
+          "Y. pestis",
+          "Plakvenilis",
+          "B. pertussis",
+          "Populiacija",
+          "Aplastinė anemija",
+          "Cezario pjūvis"
+      ]
+  },
+  {
+      "Group": "Group 127",
+      "Words": [
+          "Chemoterapija",
+          "Pėdų grybelis",
+          "TAVI",
+          "Cholecistolitiazė",
+          "Insultas",
+          "M. tuberculosis",
+          "PAL",
+          "Etanolis"
+      ]
+  },
+  {
+      "Group": "Group 128",
+      "Words": [
+          "Planinė operacija",
+          "Tarpuplautis",
+          "Urologas",
+          "Demielinizacija",
+          "Lizosoma",
+          "Infekcijos vartai",
+          "Krioabliacija",
+          "k/m"
+      ]
+  },
+  {
+      "Group": "Group 129",
+      "Words": [
+          "Pilkoji medžiaga",
+          "Haloperidolis",
+          "Embrionas",
+          "Lumpektomija",
+          "Palpacija",
+          "Vazokonstrikcija",
+          "Dihidrotestosteronas",
+          "Fenoksibenzaminas"
+      ]
+  },
+  {
+      "Group": "Group 130",
+      "Words": [
+          "Endorfinai",
+          "Megakariocitas",
+          "Enterovirusai",
+          "PPD",
+          "Hantingtono liga",
+          "TTH",
+          "Išorinė ausis",
+          "Melaninas"
+      ]
+  },
+  {
+      "Group": "Group 131",
+      "Words": [
+          "Fibrotoraksas",
+          "Niežulys",
+          "Kulnakaulis",
+          "Transaminazės",
+          "Inkstų policistozė",
+          "Metaanalizė",
+          "Dizurija",
+          "Jėga"
+      ]
+  },
+  {
+      "Group": "Group 132",
+      "Words": [
+          "Sistolė",
+          "Limfa",
+          "Apendiksas",
+          "C-peptidas",
+          "Klonusas",
+          "Kariotipas",
+          "Nevaisingumas",
+          "Akiduobė"
+      ]
+  },
+  {
+      "Group": "Group 133",
+      "Words": [
+          "BRAF",
+          "Lordozė",
+          "Nitrozaminas",
+          "Narkolepsija",
+          "Rainelė",
+          "Varfarinas",
+          "Hematemesis",
+          "Raumuo"
+      ]
+  },
+  {
+      "Group": "Group 134",
+      "Words": [
+          "Dispnėja",
+          "Pandemija",
+          "Gestagenai",
+          "Hiperemija",
+          "Kofeinas",
+          "Kepenys",
+          "Menarchė",
+          "Pincetas"
+      ]
+  },
+  {
+      "Group": "Group 135",
+      "Words": [
+          "Kvetiapinas",
+          "Sarkomeras",
+          "Ortopedinė avalynė",
+          "Albuminai",
+          "Amniocentezė",
+          "Miozinas",
+          "Melena",
+          "Psoriazė"
+      ]
+  },
+  {
+      "Group": "Group 136",
+      "Words": [
+          "Oogenezė",
+          "PAP testas",
+          "Distimija",
+          "Rentgenografija",
+          "Politrauma",
+          "Lichenifikacija",
+          "Abdukcija",
+          "Kraujo grupė"
+      ]
+  },
+  {
+      "Group": "Group 137",
+      "Words": [
+          "Neurinoma",
+          "Saturacija",
+          "Plazmidė",
+          "Prievarčio raukas",
+          "Nitratai",
+          "Akropachija",
+          "Refleksas",
+          "Spazmolitikai"
+      ]
+  },
+  {
+      "Group": "Group 138",
+      "Words": [
+          "Osteopatija",
+          "Levotiroksinas",
+          "Klaritromicinas",
+          "Prevencija",
+          "Embriogenezė",
+          "Aterosklerozė",
+          "TEN",
+          "Absorbcija"
+      ]
+  },
+  {
+      "Group": "Group 139",
+      "Words": [
+          "Trombinas",
+          "Mastitas",
+          "Pneumonija",
+          "Reprodukcija",
+          "Skrepliai",
+          "Ciprofloksacinas",
+          "fMRT",
+          "Anestetikai"
+      ]
+  },
+  {
+      "Group": "Group 140",
+      "Words": [
+          "Osteonekrozė",
+          "Benzodiazepinai",
+          "Trapecinis raumuo",
+          "Imunokompleksai",
+          "Autonomija",
+          "UpToDate",
+          "Epistaksis",
+          "Fournier gangrena"
+      ]
+  },
+  {
+      "Group": "Group 141",
+      "Words": [
+          "Hiperhidrozė",
+          "Histoplazmozė",
+          "Žastinė arterija",
+          "Meticilinas",
+          "Eritrodermija",
+          "Pronacija",
+          "Agranuliocitozė",
+          "Nervinė anoreksija"
+      ]
+  },
+  {
+      "Group": "Group 142",
+      "Words": [
+          "Zondas",
+          "Smegenų skystis",
+          "Neuroblastoma",
+          "Parazitologija",
+          "Fototerapija",
+          "Krioterapija",
+          "Spermarchė",
+          "Alergenai"
+      ]
+  },
+  {
+      "Group": "Group 143",
+      "Words": [
+          "IgD",
+          "Grizeofulvinas",
+          "NYHA",
+          "Geriatrija",
+          "Elastinės kojinės",
+          "Antropometrija",
+          "Endocitozė",
+          "Hepatocitas"
+      ]
+  },
+  {
+      "Group": "Group 144",
+      "Words": [
+          "Listeriozė",
+          "CD20",
+          "AV mazgas",
+          "Tendinitas",
+          "Sąmonė",
+          "Kapsulė",
+          "Lipofilinis",
+          "Prefrontalinė žievė"
+      ]
+  },
+  {
+      "Group": "Group 145",
+      "Words": [
+          "Etanerceptas",
+          "Perkusija",
+          "Liežuvėlis",
+          "Aspergilioma",
+          "Hipodinamija",
+          "Fibrinolizė",
+          "PATE",
+          "PHT"
+      ]
+  },
+  {
+      "Group": "Group 146",
+      "Words": [
+          "Inspiracija",
+          "Alveolės",
+          "Meningoencefalitas",
+          "Nutukimas",
+          "Hemosiderinas",
+          "Aortos disekacija",
+          "Makrocitozė",
+          "Anabolizmas"
+      ]
+  },
+  {
+      "Group": "Group 147",
+      "Words": [
+          "Prienosiniai ančiai",
+          "Kreatinfosfatas",
+          "Valingi judesiai",
+          "Oksidacija",
+          "Geltonoji dėmė",
+          "Antikoaguliantai",
+          "Paausinė liauka",
+          "Kolposkopija"
+      ]
+  },
+  {
+      "Group": "Group 148",
+      "Words": [
+          "Medulinė karcinoma",
+          "Šeimos gydytojas",
+          "Šokikaulis",
+          "Skonio svogūnėlis",
+          "In vitro",
+          "MSSA",
+          "GNS",
+          "Metaplazija"
+      ]
+  },
+  {
+      "Group": "Group 149",
+      "Words": [
+          "Ekspiracija",
+          "Gripas",
+          "Trombocitas",
+          "Nikturija",
+          "Vyzdys",
+          "Neurohipofizė",
+          "Metabolinis sindromas",
+          "Defekacija"
+      ]
+  },
+  {
+      "Group": "Group 150",
+      "Words": [
+          "Skrandis",
+          "Fimozė",
+          "Azatioprinas",
+          "Hipofizės duobė",
+          "Gyva vakcina",
+          "Anovuliacija",
+          "Metastazavimas",
+          "Riešakaulis"
+      ]
+  },
+  {
+      "Group": "Group 151",
+      "Words": [
+          "Vit. D",
+          "CRB",
+          "Liposakcija",
+          "Pustulė",
+          "Mieloma",
+          "FEGDS",
+          "Kasos uodega",
+          "Gaubtinė žarna"
+      ]
+  },
+  {
+      "Group": "Group 152",
+      "Words": [
+          "Giliosios venos",
+          "Furunkulas",
+          "Mekonijus",
+          "Stabligė",
+          "Nugaros smegenys",
+          "Mialgija",
+          "Psichiatras",
+          "Osteotomija"
+      ]
+  },
+  {
+      "Group": "Group 153",
+      "Words": [
+          "Tuščioji žarna",
+          "Hemikorporektomija",
+          "Neurono kūnas",
+          "Hipoksija",
+          "Flucitozinas",
+          "Ketoprofenas",
+          "Kraujo plazma",
+          "Pilvinė aorta"
+      ]
+  },
+  {
+      "Group": "Group 154",
+      "Words": [
+          "Dempingo sindromas",
+          "Patogenezė",
+          "Smegenų skilveliai",
+          "Kateteris",
+          "Uždaras lūžis",
+          "Mirtazapinas",
+          "Slankstelinė arterija",
+          "Cl. difficile"
+      ]
+  },
+  {
+      "Group": "Group 155",
+      "Words": [
+          "Bioprotezas",
+          "Maravirokas",
+          "Bazalioma",
+          "Dendritinė ląstelė",
+          "Narkomanija",
+          "Melanocitas",
+          "Moksifloksacinas",
+          "Azoto balansas"
+      ]
+  },
+  {
+      "Group": "Group 156",
+      "Words": [
+          "Stipinkaulis",
+          "Iritas",
+          "Karbunkulas",
+          "LIL",
+          "B. burgdorferi",
+          "Y chromosoma",
+          "Achilo sausgyslė",
+          "Urobilinas"
+      ]
+  },
+  {
+      "Group": "Group 157",
+      "Words": [
+          "Varputė",
+          "Angiotenzinas II",
+          "Sėdynkaulis",
+          "Valproatas",
+          "Slaugytoja",
+          "PET",
+          "KŠN",
+          "Depoliarizacija"
+      ]
+  },
+  {
+      "Group": "Group 158",
+      "Words": [
+          "Rifampicinas",
+          "Žvairumas",
+          "REM miegas",
+          "Plazmaferezė",
+          "Paracentezė",
+          "Talidomidas",
+          "Trimitas",
+          "Prognatizmas"
+      ]
+  },
+  {
+      "Group": "Group 159",
+      "Words": [
+          "Anhedonija",
+          "Retroperitoneumas",
+          "Gestacinis amžius",
+          "Išstūmimo frakcija",
+          "Koordinacija",
+          "Goniometrija",
+          "Ex vivo",
+          "Kokliušas"
+      ]
+  },
+  {
+      "Group": "Group 160",
+      "Words": [
+          "Aseptika",
+          "Hidronefrozė",
+          "Laktazė",
+          "Nitrofurantoinas",
+          "Hipopituitarizmas",
+          "H. pylori",
+          "Mėšlungis",
+          "Elektromiografija"
+      ]
+  },
+  {
+      "Group": "Group 161",
+      "Words": [
+          "Vernike zona",
+          "Filtracija",
+          "Bula",
+          "Hiperrefleksija",
+          "Skeveldrinis lūžis",
+          "Kapsaicinas",
+          "Imunodeficitas",
+          "Karcinomatozė"
+      ]
+  },
+  {
+      "Group": "Group 162",
+      "Words": [
+          "Sindesmologija",
+          "Chondrosarkoma",
+          "Reumatologas",
+          "Smegenys",
+          "Eozinofilija",
+          "Gestacinis diabetas",
+          "Apraksija",
+          "Glikogenolizė"
+      ]
+  },
+  {
+      "Group": "Group 163",
+      "Words": [
+          "Aortos koarktacija",
+          "Gram- bakterijos",
+          "Virškinimo traktas",
+          "Akupunktūra",
+          "Amniono skystis",
+          "Kifozė",
+          "Vinblastinas",
+          "HER2"
+      ]
+  },
+  {
+      "Group": "Group 164",
+      "Words": [
+          "Farmakodinamika",
+          "Alprazolamas",
+          "Placebas",
+          "Hormonoterapija",
+          "Stridoras",
+          "Konservantai",
+          "Žalingi įpročiai",
+          "Dizenterija"
+      ]
+  },
+  {
+      "Group": "Group 165",
+      "Words": [
+          "Regos kryžmė",
+          "PP",
+          "Migdolinis kūnas",
+          "P dantelis",
+          "Rentgenograma",
+          "Retikuliocitas",
+          "Impotencija",
+          "Avaskulinė nekrozė"
+      ]
+  },
+  {
+      "Group": "Group 166",
+      "Words": [
+          "Riebalų liaukos",
+          "Chlorheksidinas",
+          "Baroreceptoriai",
+          "Eutirozė",
+          "Piramidinis laidas",
+          "Repoliarizacija",
+          "Adrenoreceptorius",
+          "Slaptas kraujavimas"
+      ]
+  },
+  {
+      "Group": "Group 167",
+      "Words": [
+          "Rozuvastatinas",
+          "Sertoli ląstelė",
+          "Pneumomediastinumas",
+          "Anestezija",
+          "β-laktamazės",
+          "Hipernatremija",
+          "Azoospermija",
+          "Fonofobija"
+      ]
+  },
+  {
+      "Group": "Group 168",
+      "Words": [
+          "Skrandžio opa",
+          "Acetil-KoA",
+          "IKD",
+          "Drenažas",
+          "HSV-1",
+          "Ekskrecija",
+          "Sjogren sindromas",
+          "Sultamicilinas"
+      ]
+  },
+  {
+      "Group": "Group 169",
+      "Words": [
+          "Fallot tetrada",
+          "Dvylikapirštė žarna",
+          "Neurologas",
+          "Tuberkuliozė",
+          "Kreatininas",
+          "Sausgysliniai siūlai",
+          "Troponinas T",
+          "Varškinė nekrozė"
+      ]
+  },
+  {
+      "Group": "Group 170",
+      "Words": [
+          "AIDS",
+          "Miopatija",
+          "Klopidogrelis",
+          "Centromerai",
+          "Hiperamonemija",
+          "Fetogenezė",
+          "Spuogas",
+          "Indometacinas"
+      ]
+  },
+  {
+      "Group": "Group 171",
+      "Words": [
+          "Autograftas",
+          "Manija",
+          "Niežai",
+          "Kulkšnis",
+          "Gipsas",
+          "Miliarinė TB",
+          "Hipertrofija",
+          "Normotimikai"
+      ]
+  },
+  {
+      "Group": "Group 172",
+      "Words": [
+          "P. falciparum",
+          "Retrovirusai",
+          "Torakoskopija",
+          "Sarkolema",
+          "KFN",
+          "Krumplynas",
+          "Agorafobija",
+          "ABO sistema"
+      ]
+  },
+  {
+      "Group": "Group 173",
+      "Words": [
+          "Izoniazidas",
+          "Miozitas",
+          "Timektomija",
+          "Krono liga",
+          "Bazinė membrana",
+          "Prolaktinas",
+          "Glicerolis",
+          "Adrenalinas"
+      ]
+  },
+  {
+      "Group": "Group 174",
+      "Words": [
+          "Koma",
+          "Epidurinė nejautra",
+          "Dezinfekcija",
+          "Regeneracija",
+          "MONA",
+          "Epikantas",
+          "Vazopresinas",
+          "Nefronas"
+      ]
+  },
+  {
+      "Group": "Group 175",
+      "Words": [
+          "Makšties skėtiklis",
+          "Amikacinas",
+          "Vidinė kapsulė",
+          "Mielomeningocelė",
+          "Sraigė",
+          "Genomas",
+          "Rabdomiolizė",
+          "Pasaitas"
+      ]
+  },
+  {
+      "Group": "Group 176",
+      "Words": [
+          "Artefaktai",
+          "Plaučių edema",
+          "Krepitacija",
+          "Vėžinė ląstelė",
+          "tRNR",
+          "Tuberkulioma",
+          "IVF",
+          "Bronchai"
+      ]
+  },
+  {
+      "Group": "Group 177",
+      "Words": [
+          "Hidatinė cista",
+          "Nėščiųjų toksikozė",
+          "Neurozė",
+          "Savityra",
+          "Šizofrenija",
+          "Raištis",
+          "Girnelė",
+          "Anatomija"
+      ]
+  },
+  {
+      "Group": "Group 178",
+      "Words": [
+          "NVNU",
+          "Gyslinis rezginys",
+          "Išangė",
+          "Fludarabinas",
+          "Facies lunatum",
+          "Gomurikaulis",
+          "Siūlas",
+          "Spondilodiscitas"
+      ]
+  },
+  {
+      "Group": "Group 179",
+      "Words": [
+          "Splenektomija",
+          "Mikrogliocitas",
+          "Valsartanas",
+          "Metabolizmas",
+          "Hepatosteatozė",
+          "Gliukomatis",
+          "Kintamasis",
+          "Celiakija"
+      ]
+  },
+  {
+      "Group": "Group 180",
+      "Words": [
+          "Dehidratacija",
+          "Sinusitas",
+          "Adrenomimetikai",
+          "Higiena",
+          "Prokariotai",
+          "Mikrocefalija",
+          "Ergoterapeutas",
+          "Imtis"
+      ]
+  },
+  {
+      "Group": "Group 181",
+      "Words": [
+          "Reye sindromas",
+          "JAK2",
+          "T. gondii",
+          "SGLT2i",
+          "BCG vakcina",
+          "CMV",
+          "Omeprazolis",
+          "Ovarektomija"
+      ]
+  },
+  {
+      "Group": "Group 182",
+      "Words": [
+          "Feochromocitoma",
+          "Akytkaulis",
+          "Švirkštas",
+          "Hemangioma",
+          "Echinokokozė",
+          "Sarkoplazma",
+          "Pragulos",
+          "Donoras"
+      ]
+  },
+  {
+      "Group": "Group 183",
+      "Words": [
+          "Decerebracija",
+          "BKT",
+          "Hipopnėja",
+          "Neurotoksinas",
+          "Polidaktilija",
+          "Prieširdis",
+          "Ekstrasistolė",
+          "Kamertonas"
+      ]
+  },
+  {
+      "Group": "Group 184",
+      "Words": [
+          "Seroza",
+          "Pankreatitas",
+          "Bioplėvelė",
+          "Pigmentas",
+          "Kalorijos",
+          "Konfidencialumas",
+          "Sąnarys",
+          "Retikuliocitozė"
+      ]
+  },
+  {
+      "Group": "Group 185",
+      "Words": [
+          "BCR-ABL",
+          "Ekstenzija",
+          "Akromegalija",
+          "DPV",
+          "Deksametazonas",
+          "Stuburo išvarža",
+          "RAAS",
+          "Proteazės"
+      ]
+  },
+  {
+      "Group": "Group 186",
+      "Words": [
+          "Stresoriai",
+          "Mitozė",
+          "Klausa",
+          "Hidrotoraksas",
+          "SNRI",
+          "Barbitūratai",
+          "Fluoruracilas",
+          "C. neoformans"
+      ]
+  },
+  {
+      "Group": "Group 187",
+      "Words": [
+          "Pilvinis kamienas",
+          "Doksazosinas",
+          "Chilomikronai",
+          "Stipininė arterija",
+          "Spirochetos",
+          "Periartritas",
+          "Urostazė",
+          "Streptomicinas"
+      ]
+  },
+  {
+      "Group": "Group 188",
+      "Words": [
+          "GERL",
+          "Terapeutas",
+          "S. typhi",
+          "Krūtinės angina",
+          "Dvipolis neuronas",
+          "Egzacerbacija",
+          "Eritrocitozė",
+          "Stentavimas"
+      ]
+  },
+  {
+      "Group": "Group 189",
+      "Words": [
+          "M. catarrhalis",
+          "Onkovirusai",
+          "GKS",
+          "Amputacija",
+          "LIFN",
+          "Chirurgas",
+          "Papulė",
+          "Miofibrilės"
+      ]
+  },
+  {
+      "Group": "Group 190",
+      "Words": [
+          "Dezorientacija",
+          "Metafizė",
+          "Alergija",
+          "Dramblialigė",
+          "Keterinė atauga",
+          "Purpura",
+          "Hodžkino ląstelė",
+          "TLK-10-AM"
+      ]
+  },
+  {
+      "Group": "Group 191",
+      "Words": [
+          "Trauma",
+          "Mastocitas",
+          "Flegmona",
+          "Komedonai",
+          "Poliovirusas",
+          "Agregacija",
+          "Adenohipofizė",
+          "Kanabinoidai"
+      ]
+  },
+  {
+      "Group": "Group 192",
+      "Words": [
+          "Rigidiškumas",
+          "Klaustrofobija",
+          "Citokinai",
+          "Pasiutligė",
+          "Fertilizacija",
+          "IgA",
+          "BNP",
+          "Pusiausvyra"
+      ]
+  },
+  {
+      "Group": "Group 193",
+      "Words": [
+          "Kserostomija",
+          "Denozumabas",
+          "Empagliflozinas",
+          "Celekoksibas",
+          "Rachitas",
+          "Dispareunija",
+          "Papilinė karcinoma",
+          "Fibrocitas"
+      ]
+  },
+  {
+      "Group": "Group 194",
+      "Words": [
+          "pH-metrija",
+          "Remdesiviras",
+          "Kardiologas",
+          "Litotripsija",
+          "Smegenų dangalai",
+          "Leptospirozė",
+          "ß-endokrinocitas",
+          "Foley kateteris"
+      ]
+  },
+  {
+      "Group": "Group 195",
+      "Words": [
+          "Operacinė",
+          "Šleivapėdystė",
+          "Titano dioksidas",
+          "Hemochromatozė",
+          "Porfirija",
+          "Akies obuolys",
+          "Pankolitas",
+          "Arterija"
+      ]
+  },
+  {
+      "Group": "Group 196",
+      "Words": [
+          "Agresija",
+          "Glitimas",
+          "Strazdanos",
+          "Pleurodezė",
+          "Dermatitas",
+          "ŠMT",
+          "PAH",
+          "Žagsulys"
+      ]
+  },
+  {
+      "Group": "Group 197",
+      "Words": [
+          "Lipidai",
+          "Enzimai",
+          "Kietasis dangalas",
+          "Sacharozė",
+          "Propofolis",
+          "Adrenoleukodistrofija",
+          "IgM",
+          "Loperamidas"
+      ]
+  },
+  {
+      "Group": "Group 198",
+      "Words": [
+          "Selegilinas",
+          "Lidokainas",
+          "ASPĮ",
+          "Fiziologinis tirpalas",
+          "Mezotelis",
+          "Penicilinazės",
+          "Baumano kapsulė",
+          "Intelektas"
+      ]
+  },
+  {
+      "Group": "Group 199",
+      "Words": [
+          "Cianozė",
+          "Galviniai nervai",
+          "Kodeinas",
+          "Diafizė",
+          "Astigmatizmas",
+          "Sistolinis tūris",
+          "Ksenograftas",
+          "Endoderma"
+      ]
+  },
+  {
+      "Group": "Group 200",
+      "Words": [
+          "Delnakaulis",
+          "Hipokampas",
+          "Acidozė",
+          "Oocitas",
+          "Otorinolaringologas",
+          "Neutropenija",
+          "Komorbidiškumas",
+          "Fimbrijos"
+      ]
+  },
+  {
+      "Group": "Group 201",
+      "Words": [
+          "Rh sistema",
+          "Metabolinė alkalozė",
+          "Hiatinė išvarža",
+          "Imuninė sistema",
+          "Stetoskopas",
+          "Riešo kanalas",
+          "Skrandžio plovimas",
+          "Piurija"
+      ]
+  },
+  {
+      "Group": "Group 202",
+      "Words": [
+          "Skausmo pobūdis",
+          "Sildenafilis",
+          "Šlauninė arterija",
+          "Paraudimas",
+          "Hipertermija",
+          "Aldosteronas",
+          "Mantu mėginys",
+          "Kalcio gliukonatas"
+      ]
+  },
+  {
+      "Group": "Group 203",
+      "Words": [
+          "Homeostazė",
+          "II tonas",
+          "Gliukozė",
+          "Ketokonazolis",
+          "Spironolaktonas",
+          "Atrofija",
+          "Ilgieji kaulai",
+          "Homeopatija"
+      ]
+  },
+  {
+      "Group": "Group 204",
+      "Words": [
+          "Hipotiroidizmas",
+          "Noradrenalinas",
+          "Askaridozė",
+          "Inanicija",
+          "Granuliocitas",
+          "Gumos",
+          "MMMH",
+          "Gauruota širdis"
+      ]
+  },
+  {
+      "Group": "Group 205",
+      "Words": [
+          "Gonadoblastoma",
+          "Profesinė liga",
+          "Afazija",
+          "Hiperkalcemija",
+          "IL-6",
+          "X chromosoma",
+          "Negyva vakcina",
+          "PGI2"
+      ]
+  },
+  {
+      "Group": "Group 206",
+      "Words": [
+          "Loratadinas",
+          "Bilastinas",
+          "Aminoglikozidai",
+          "Chimusas",
+          "DIK",
+          "Tobramicinas",
+          "Antagonistai",
+          "Hemodializė"
+      ]
+  },
+  {
+      "Group": "Group 207",
+      "Words": [
+          "Diastolė",
+          "Hemartrozė",
+          "Epidemiologija",
+          "18F-FDG",
+          "Haliucinacijos",
+          "Laisvieji radikalai",
+          "Hodžkino limfoma",
+          "Hematochezija"
+      ]
+  },
+  {
+      "Group": "Group 208",
+      "Words": [
+          "Kompensacija",
+          "Kietoji opa",
+          "Kontuzija",
+          "Eozinofilas",
+          "Presinkopė",
+          "D-dimerai",
+          "Nuotaika",
+          "Hiso pluoštas"
+      ]
+  },
+  {
+      "Group": "Group 209",
+      "Words": [
+          "Lykinė vena",
+          "Kretinizmas",
+          "Anemija",
+          "Epidemija",
+          "MHC I",
+          "Gūžys",
+          "Rituksimabas",
+          "Pectus carinatum"
+      ]
+  },
+  {
+      "Group": "Group 210",
+      "Words": [
+          "Gerybinis navikas",
+          "Gliozė",
+          "Šarminė fosfatazė",
+          "Rezultatai",
+          "Ki67",
+          "Sinkopė",
+          "Blužnies plyšimas",
+          "Impetiga"
+      ]
+  },
+  {
+      "Group": "Group 211",
+      "Words": [
+          "Gonadotropinas",
+          "Fentanilis",
+          "Būdravimas",
+          "Keto dieta",
+          "Chalatas",
+          "ENG",
+          "Modifikacija",
+          "Ankilozė"
+      ]
+  },
+  {
+      "Group": "Group 212",
+      "Words": [
+          "Čiobreliaukė",
+          "eFAST",
+          "Caput medusae",
+          "Artroskopija",
+          "Statinai",
+          "Migruojanti eritema",
+          "Imunofluorescencija",
+          "Hiperkapnija"
+      ]
+  },
+  {
+      "Group": "Group 213",
+      "Words": [
+          "Mastoiditas",
+          "Kandidozė",
+          "Klubinė žarna",
+          "Chloras",
+          "Neuroboreliozė",
+          "Navikas",
+          "Bušaro mazgeliai",
+          "Onkogenai"
+      ]
+  },
+  {
+      "Group": "Group 214",
+      "Words": [
+          "Bioetika",
+          "Remisija",
+          "Nefroptozė",
+          "P. vivax",
+          "Parkinsono liga",
+          "Skarlatina",
+          "DTL",
+          "Tomografija"
+      ]
+  },
+  {
+      "Group": "Group 215",
+      "Words": [
+          "Celiuliozė",
+          "AVAJO",
+          "pH",
+          "Karbapenemai",
+          "Apgamas",
+          "Kandžiai",
+          "Acetazolamidas",
+          "Tinklinis darinys"
+      ]
+  },
+  {
+      "Group": "Group 216",
+      "Words": [
+          "Hepatoma",
+          "T dantelis",
+          "Spinalinė nejautra",
+          "Makrofagas",
+          "Gumburas",
+          "Ketogenezė",
+          "Metabolinė acidozė",
+          "Mąstymas"
+      ]
+  },
+  {
+      "Group": "Group 217",
+      "Words": [
+          "Endeminė zona",
+          "Pielonefritas",
+          "Metanefrinai",
+          "Atropinas",
+          "Pulmonektomija",
+          "Geležis",
+          "Etiologija",
+          "Arachidono rūgštis"
+      ]
+  },
+  {
+      "Group": "Group 218",
+      "Words": [
+          "Kariesas",
+          "Sinergistai",
+          "Krebso ciklas",
+          "Eteris",
+          "Grelinas",
+          "Akušerė",
+          "Antinksčiai",
+          "Asfiksija"
+      ]
+  },
+  {
+      "Group": "Group 219",
+      "Words": [
+          "Hidrochlortiazidas",
+          "Pleistras",
+          "Mildronatas",
+          "Hipervolemija",
+          "Hemostazė",
+          "Reino sindromas",
+          "Aorta",
+          "Langhanso ląstelė"
+      ]
+  },
+  {
+      "Group": "Group 220",
+      "Words": [
+          "Karcinoma",
+          "Amitriptilinas",
+          "Plaučių infarktas",
+          "Histaminas",
+          "Adatkotis",
+          "Abgamas",
+          "Dermatovenerologas",
+          "Aspiracija"
+      ]
+  },
+  {
+      "Group": "Group 221",
+      "Words": [
+          "Mineralkortikoidai",
+          "ŪRDS",
+          "Hemianopsija",
+          "Klubinė arterija",
+          "Įgimtas imunitetas",
+          "Trizmas",
+          "Halitozė",
+          "Kreatinurija"
+      ]
+  },
+  {
+      "Group": "Group 222",
+      "Words": [
+          "ŽPV",
+          "Širdiplėvė",
+          "Albuminurija",
+          "Divertikuliozė",
+          "Daptomicinas",
+          "Timoma",
+          "Mikozės",
+          "Hemas"
+      ]
+  },
+  {
+      "Group": "Group 223",
+      "Words": [
+          "Buka trauma",
+          "Elektrodai",
+          "Šlapimo pūslė",
+          "Timpanoplastika",
+          "Astrogenas",
+          "Liposarkoma",
+          "Apatija",
+          "Dvilypis raumuo"
+      ]
+  },
+  {
+      "Group": "Group 224",
+      "Words": [
+          "Echokardiografija",
+          "Celiulitas",
+          "Tinklainės atšoka",
+          "Adukcija",
+          "Glikemija",
+          "Psichoterapija",
+          "Brachiterapija",
+          "Kaukolės siūlės"
+      ]
+  },
+  {
+      "Group": "Group 225",
+      "Words": [
+          "Blužnis",
+          "Antibiotikoterapija",
+          "Fosfokinazė",
+          "Rizikos veiksniai",
+          "Kaptoprilis",
+          "Adventicija",
+          "Stiklakūnis",
+          "Regos nervas"
+      ]
+  },
+  {
+      "Group": "Group 226",
+      "Words": [
+          "Piktybinė anemija",
+          "Atetozė",
+          "MHC II",
+          "Uždegimas",
+          "Artrodezė",
+          "Spiralinis lūžis",
+          "Bupropionas",
+          "Gaivinimas"
+      ]
+  },
+  {
+      "Group": "Group 227",
+      "Words": [
+          "KRAS",
+          "CREST sindromas",
+          "Hipotezė",
+          "Hemoraginė diatezė",
+          "Miologija",
+          "Nitroglicerinas",
+          "Antioksidantai",
+          "Kancerogenezė"
+      ]
+  },
+  {
+      "Group": "Group 228",
+      "Words": [
+          "iFOBT testas",
+          "Bronchospazmas",
+          "Sinovitas",
+          "Dentinas",
+          "Klozapinas",
+          "Fibrozė",
+          "Metoprololis",
+          "Papiledema"
+      ]
+  },
+  {
+      "Group": "Group 229",
+      "Words": [
+          "Papilomatozė",
+          "Kortizolis",
+          "Reoperacija",
+          "Parenchima",
+          "Laparoskopija",
+          "Šlapimtakis",
+          "Menjero liga",
+          "1 tipo CD"
+      ]
+  },
+  {
+      "Group": "Group 230",
+      "Words": [
+          "Farmakologija:",
+          "Didysis gūbrys",
+          "Cor pulmonale",
+          "Hipofizė",
+          "Eksudatas",
+          "Epidermis",
+          "Adata",
+          "Amiloridas"
+      ]
+  },
+  {
+      "Group": "Group 231",
+      "Words": [
+          "Galvos smegenys",
+          "Fibrininis uždegimas",
+          "Didžioji anga",
+          "Hiperprolaktinemija",
+          "Grakštusis raumuo",
+          "Venografija",
+          "Laktacija",
+          "PTSD"
+      ]
+  },
+  {
+      "Group": "Group 232",
+      "Words": [
+          "Androgenai",
+          "Reanimatologas",
+          "Plaučiai",
+          "Vežimėlis",
+          "Gliukokortikoidai",
+          "Pleištakaulis",
+          "Lipoma",
+          "Gastrostoma"
+      ]
+  },
+  {
+      "Group": "Group 233",
+      "Words": [
+          "Imunodiagnostika",
+          "AST",
+          "Hipestezija",
+          "OMA",
+          "ŽIV",
+          "LH",
+          "Rezidentas",
+          "Alopecija"
+      ]
+  },
+  {
+      "Group": "Group 234",
+      "Words": [
+          "Gujono kanalas",
+          "Nefritinis sindromas",
+          "Angioplastika",
+          "Trumpieji kaulai",
+          "Adomo obuolys",
+          "Mutacija",
+          "Gomurio migdolai",
+          "Tachiaritmija"
+      ]
+  },
+  {
+      "Group": "Group 235",
+      "Words": [
+          "Akytoji medžiaga",
+          "Diklofenakas",
+          "SPECT",
+          "Fotodermatitas",
+          "Fascija",
+          "Preeklampsija",
+          "Mezoteliocitas",
+          "Pamato branduoliai"
+      ]
+  },
+  {
+      "Group": "Group 236",
+      "Words": [
+          "Arteriolosklerozė",
+          "Orgazmas",
+          "Tiroperoksidazė",
+          "Keratitas",
+          "Įgytas imunitetas",
+          "Autoantikūnai",
+          "Hematoma",
+          "M. pneumoniae"
+      ]
+  },
+  {
+      "Group": "Group 237",
+      "Words": [
+          "IŠL",
+          "S. aureus",
+          "Senėjimas",
+          "cAMP",
+          "Globulinai",
+          "Haloterapija",
+          "Išnirimas",
+          "FEV1"
+      ]
+  },
+  {
+      "Group": "Group 238",
+      "Words": [
+          "Erkinis encefalitas",
+          "Radikali operacija",
+          "Pūlinis uždegimas",
+          "Fiziologija",
+          "Sergamumas",
+          "Juostinė pūslelinė",
+          "per os",
+          "Krešėjimo veiksniai"
+      ]
+  },
+  {
+      "Group": "Group 239",
+      "Words": [
+          "Dreslerio sindromas",
+          "Osteolizė",
+          "Mimikos raumenys",
+          "Alergologas",
+          "Virionas",
+          "Tarpvietė",
+          "Smegenų sukrėtimas",
+          "Trombozė"
+      ]
+  },
+  {
+      "Group": "Group 240",
+      "Words": [
+          "Išmatų tyrimas",
+          "SRY genas",
+          "Acetaminofenas",
+          "Tymai",
+          "Gydymas",
+          "Vudo lempa",
+          "Hematurija",
+          "Povidono jodas"
+      ]
+  },
+  {
+      "Group": "Group 241",
+      "Words": [
+          "Trachoma",
+          "SA mazgas",
+          "Dermografizmas",
+          "Fluoksetinas",
+          "Demencija",
+          "AV blokada",
+          "Tikas",
+          "P. aeruginosa"
+      ]
+  },
+  {
+      "Group": "Group 242",
+      "Words": [
+          "Kepenų kapsulė",
+          "Sekrecija",
+          "Plazmodijai",
+          "Antiseptikas",
+          "PMS",
+          "Kardiomiocitas",
+          "Hipotermija",
+          "Prednizonas"
+      ]
+  },
+  {
+      "Group": "Group 243",
+      "Words": [
+          "Vit. K",
+          "QS dantelis",
+          "PAM",
+          "Feritinas",
+          "Reumatas",
+          "Embriologija",
+          "Neonatologija",
+          "The Lancet"
+      ]
+  },
+  {
+      "Group": "Group 244",
+      "Words": [
+          "Apendicitas",
+          "Glomerulas",
+          "Somnolencija",
+          "Morfinas",
+          "Kvėptakiai",
+          "E. coli",
+          "Kušingo refleksas",
+          "Mėnesinių ciklas"
+      ]
+  },
+  {
+      "Group": "Group 245",
+      "Words": [
+          "PubMed",
+          "Bradipnėja",
+          "Hiperkalemija",
+          "Pūslė",
+          "Terapinis langas",
+          "Mukoklirensas",
+          "Izograftas",
+          "ECMO"
+      ]
+  },
+  {
+      "Group": "Group 246",
+      "Words": [
+          "Reabsorbcija",
+          "Angiotenzinogenas",
+          "Venų varikozė",
+          "Haptoglobinas",
+          "Amjodaronas",
+          "Virusologija",
+          "Tiroksinas",
+          "Cefuroksimas"
+      ]
+  },
+  {
+      "Group": "Group 247",
+      "Words": [
+          "Pilvaplėvė",
+          "Diagnozė",
+          "H. influenzae",
+          "Meteorizmas",
+          "Melsvoji dėmė",
+          "Gimstamumas",
+          "Ašaros",
+          "Alograftas"
+      ]
+  },
+  {
+      "Group": "Group 248",
+      "Words": [
+          "Hidrokortizonas",
+          "Alzheimerio liga",
+          "VPAE",
+          "SRV",
+          "Paranoja",
+          "Žirklės",
+          "Folikulitas",
+          "Pasieninė ląstelė"
+      ]
+  },
+  {
+      "Group": "Group 249",
+      "Words": [
+          "S. viridans",
+          "Smegenų pjautuvas",
+          "Aponeurozė",
+          "Vietinė nejautra",
+          "Endemija",
+          "Vazodilatacija",
+          "Kapiliarai",
+          "Alkūnkaulis"
+      ]
+  },
+  {
+      "Group": "Group 250",
+      "Words": [
+          "Heterozigotas",
+          "Zoonozės",
+          "Ramentai",
+          "Pabrinkimas",
+          "Botalo latakas",
+          "Juodoji medžiaga",
+          "Prokainamidas",
+          "Linezolidas"
+      ]
+  },
+  {
+      "Group": "Group 251",
+      "Words": [
+          "Veidinis nervas",
+          "Nuospauda",
+          "Divertikulitas",
+          "Ochronozė",
+          "Ginekomastija",
+          "Salbutamolis",
+          "Enoksaparinas",
+          "Miksoma"
+      ]
+  },
+  {
+      "Group": "Group 252",
+      "Words": [
+          "Barlow testas",
+          "Pirazinamidas",
+          "Pneumosklerozė",
+          "Randas",
+          "Radioterapija",
+          "Ligonis",
+          "Pūslinė",
+          "Dabigatranas"
+      ]
+  },
+  {
+      "Group": "Group 253",
+      "Words": [
+          "Estronas",
+          "Hiporefleksija",
+          "Prazikvantelis",
+          "Limfinė cisterna",
+          "Pasėlis",
+          "Bradikinezija",
+          "Ertapenemas",
+          "Reperfuzija"
+      ]
+  },
+  {
+      "Group": "Group 254",
+      "Words": [
+          "Antigenai",
+          "Osteochondropatija",
+          "Achlorhidrija",
+          "Nosiaryklė",
+          "Raupai",
+          "Tramadolis",
+          "Plato fazė",
+          "Glioblastoma"
+      ]
+  },
+  {
+      "Group": "Group 255",
+      "Words": [
+          "Hemofilija A",
+          "Riketsijos",
+          "Tiroliberinas",
+          "Tiotropis",
+          "Neuromediatoriai",
+          "Troponinas I",
+          "Artroplastika",
+          "Išialgija"
+      ]
+  },
+  {
+      "Group": "Group 256",
+      "Words": [
+          "Aromatazė",
+          "Hospitalizacija",
+          "Pirštinės",
+          "Diaforezė",
+          "Pesketaras",
+          "Legioneliozė",
+          "Autoklavas",
+          "Sifilinis aortitas"
+      ]
+  },
+  {
+      "Group": "Group 257",
+      "Words": [
+          "Chromosoma",
+          "Flukonazolis",
+          "Mortono pėda",
+          "Dermatologas",
+          "Ciklamatas",
+          "Endokrinologas",
+          "Oreksinas",
+          "Polisomnografija"
+      ]
+  },
+  {
+      "Group": "Group 258",
+      "Words": [
+          "Monoaminooksidazė",
+          "FDA",
+          "Gancikloviras",
+          "Biochemija",
+          "Egzotoksinai",
+          "Kiaušintakis",
+          "Virkštelė",
+          "Gūžduobė"
+      ]
+  },
+  {
+      "Group": "Group 259",
+      "Words": [
+          "Čiurnakaulis",
+          "Sausi karkalai",
+          "Receptiniai vaistai",
+          "IFN-γ",
+          "Serozinis uždegimas",
+          "Sezoninės ligos",
+          "Anasarka",
+          "Raktikaulis"
+      ]
+  },
+  {
+      "Group": "Group 260",
+      "Words": [
+          "GFG",
+          "Betakarotinemija",
+          "Kasa",
+          "Koksaki virusas",
+          "Raltegraviras",
+          "Adenokarcinoma",
+          "Pogumburis",
+          "Molekulė"
+      ]
+  },
+  {
+      "Group": "Group 261",
+      "Words": [
+          "Ryklė",
+          "GTM",
+          "Persileidimas",
+          "Scintigrafija",
+          "Hiperestezija",
+          "Gram+ bakterijos",
+          "Ašarikaulis",
+          "C. diphtheriae"
+      ]
+  },
+  {
+      "Group": "Group 262",
+      "Words": [
+          "Piloerekcija",
+          "NSTEMI",
+          "Naujagimis",
+          "Miokarditas",
+          "Antsvoris",
+          "Laktatas",
+          "TCA",
+          "Hiperlipidemija"
+      ]
+  },
+  {
+      "Group": "Group 263",
+      "Words": [
+          "Skausmas",
+          "Hipogonadizmas",
+          "Osteosintezė",
+          "Klonidinas",
+          "Gydytojas",
+          "Ceftriaksonas",
+          "ŠTI",
+          "Kraujo transfuzija"
+      ]
+  },
+  {
+      "Group": "Group 264",
+      "Words": [
+          "Seminoma",
+          "Prokainas",
+          "Arteriolė",
+          "Kraujotaka",
+          "Nikotinas",
+          "Idarucizumabas",
+          "Plaučių fibrozė",
+          "Paplitimas"
+      ]
+  },
+  {
+      "Group": "Group 265",
+      "Words": [
+          "Bakteriemija",
+          "Žvakutė",
+          "Kankorėžinė liauka",
+          "Hemorojus",
+          "Farmakologija",
+          "Katijonas",
+          "Virulentiškumas",
+          "Kremzlė"
+      ]
+  },
+  {
+      "Group": "Group 266",
+      "Words": [
+          "Polipas",
+          "Priešlaikinis gimdymas",
+          "Didžioji taukinė",
+          "Cista",
+          "Feromonai",
+          "Jautrumas",
+          "Urostoma",
+          "Toksikologija"
+      ]
+  },
+  {
+      "Group": "Group 267",
+      "Words": [
+          "Angiogenezė",
+          "Hipoventiliacija",
+          "Instrumentatorė",
+          "Neurofibromatozė",
+          "Kaukė",
+          "Eritrocitas",
+          "Adenovirusas",
+          "Kortikosteroidai"
+      ]
+  },
+  {
+      "Group": "Group 268",
+      "Words": [
+          "EKS",
+          "Encefalopatija",
+          "Hiperhomocisteinemija",
+          "Vėjaraupiai",
+          "Terbinafinas",
+          "Limfostazė",
+          "Chondroma",
+          "GMP"
+      ]
+  },
+  {
+      "Group": "Group 269",
+      "Words": [
+          "TMP/SMX",
+          "RDW",
+          "Žaizda",
+          "Strijos",
+          "Salmeterolis",
+          "Intoksikacija",
+          "Homocisteinas",
+          "Marfano sindromas"
+      ]
+  },
+  {
+      "Group": "Group 270",
+      "Words": [
+          "Ligandas",
+          "Kryžkaulis",
+          "Ketoacidozė",
+          "Pedžeto liga",
+          "Tuliaremija",
+          "Skeletas",
+          "Kotiledonai",
+          "Vartų vena"
+      ]
+  },
+  {
+      "Group": "Group 271",
+      "Words": [
+          "Endometriozė",
+          "Diagnostika",
+          "Žiuželis",
+          "HCl",
+          "Eritropoetinas",
+          "Difterija",
+          "Limbinė skiltis",
+          "Hipoperfuzija"
+      ]
+  },
+  {
+      "Group": "Group 272",
+      "Words": [
+          "Deltinis raumuo",
+          "Biopsija",
+          "Lęšis",
+          "Deksketoprofenas",
+          "Motoneuronas",
+          "Mineralograma",
+          "Vainikinė arterija",
+          "Metoklopramidas"
+      ]
+  },
+  {
+      "Group": "Group 273",
+      "Words": [
+          "Krūtys",
+          "Sausgyslė",
+          "Trombocitopenija",
+          "Perimetriumas",
+          "Galaktorėja",
+          "Sulfasalazinas",
+          "Epipen",
+          "Antitoksinas"
+      ]
+  },
+  {
+      "Group": "Group 274",
+      "Words": [
+          "Antiemetikai",
+          "Kaulinis rumbas",
+          "Hipotonija",
+          "Kseroftalmija",
+          "Lancetas",
+          "Buprenorfinas",
+          "Endarterektomija",
+          "Manitolis"
+      ]
+  },
+  {
+      "Group": "Group 275",
+      "Words": [
+          "Aldosteronoma",
+          "Aferentinis laidas",
+          "Eritromicinas",
+          "Plautinė hipertenzija",
+          "Smegenų kamienas",
+          "Gestacija",
+          "Skryningas",
+          "Leukodermija"
+      ]
+  },
+  {
+      "Group": "Group 276",
+      "Words": [
+          "Intramedulinė vinis",
+          "Libido",
+          "Bazofilas",
+          "Gingivitas",
+          "Duombazė",
+          "B. fragilis",
+          "Sulbaktamas",
+          "AKFi"
+      ]
+  },
+  {
+      "Group": "Group 277",
+      "Words": [
+          "Makrolidai",
+          "Utėlės",
+          "Prolaktinoma",
+          "Ląstelės lizė",
+          "Simfiziolizė",
+          "Hiperurikemija",
+          "Bupivakainas",
+          "Psichozė"
+      ]
+  },
+  {
+      "Group": "Group 278",
+      "Words": [
+          "Jungo vena",
+          "Eufilinas",
+          "Proprioceptoriai",
+          "Diplopija",
+          "Ornitozė",
+          "Eksteroreceptoriai",
+          "Parestezija",
+          "Meningioma"
+      ]
+  },
+  {
+      "Group": "Group 279",
+      "Words": [
+          "Atrofinis rinitas",
+          "Limfocitozė",
+          "Bronchiolės",
+          "Progestinas",
+          "Fenotipas",
+          "Prednizolonas",
+          "Aortos vožtuvas",
+          "Paraganglioma"
+      ]
+  },
+  {
+      "Group": "Group 280",
+      "Words": [
+          "Širdinė astma",
+          "Šarvuota širdis",
+          "Poodinė emfizema",
+          "P mitrale",
+          "Kvėpavimo dažnis",
+          "Tazobaktamas",
+          "Miokardas",
+          "PET-KT"
+      ]
+  },
+  {
+      "Group": "Group 281",
+      "Words": [
+          "Tetanospazminas",
+          "Ašies dantis",
+          "Metroragija",
+          "Maldigestija",
+          "Gonartrozė",
+          "Auksinis standartas",
+          "Takrolimuzas",
+          "Rotavirusas"
+      ]
+  },
+  {
+      "Group": "Group 282",
+      "Words": [
+          "Akytasis antis",
+          "Ilizarovo aparatas",
+          "LDH",
+          "Metforminas",
+          "Branduolys",
+          "Losartanas",
+          "Precentrinis vingis",
+          "Ceftazidimas"
+      ]
+  },
+  {
+      "Group": "Group 283",
+      "Words": [
+          "Konsiliumas",
+          "Gono mazgas",
+          "Elektroneurografija",
+          "Ca in situ",
+          "Dispepsijos sindromas",
+          "Turkiabalnis",
+          "Sarkoma",
+          "Bursa"
+      ]
+  },
+  {
+      "Group": "Group 284",
+      "Words": [
+          "Varpos akytkūnis",
+          "Žandikaulis",
+          "Indikacijos",
+          "Tepinėlis",
+          "Pindololis",
+          "Poliomielitas",
+          "Kacheksija",
+          "Ampicilinas"
+      ]
+  },
+  {
+      "Group": "Group 285",
+      "Words": [
+          "Klavulano rūgštis",
+          "Psichoterapeutas",
+          "ELISA tyrimas",
+          "Edema",
+          "Limfedema",
+          "Fibromialgija",
+          "Orientacija",
+          "Ašis"
+      ]
+  },
+  {
+      "Group": "Group 286",
+      "Words": [
+          "Smegenų edema",
+          "SSRI",
+          "MCV",
+          "Emalis",
+          "Krešulys",
+          "Vulva",
+          "Tripsinas",
+          "Pincetas"
+      ]
+  },
+  {
+      "Group": "Group 287",
+      "Words": [
+          "Generiniai vaistai",
+          "Situs inversus",
+          "Strangurija",
+          "Apiksabanas",
+          "Fruktozė",
+          "Ileus",
+          "Apendektomija",
+          "Diafragma"
+      ]
+  },
+  {
+      "Group": "Group 288",
+      "Words": [
+          "Apetitas",
+          "P. jirovecii",
+          "Protamino sulfatas",
+          "Ataksija",
+          "Oligodendroglioma",
+          "Speniniai raumenys",
+          "Plazmolema",
+          "Tau baltymas"
+      ]
+  },
+  {
+      "Group": "Group 289",
+      "Words": [
+          "Krūties vėžys",
+          "CNS",
+          "Trombocitozė",
+          "Aminorūgštys",
+          "Panhipopituitarizmas",
+          "Mikologas",
+          "Kaspinuotis",
+          "Chorėja"
+      ]
+  },
+  {
+      "Group": "Group 290",
+      "Words": [
+          "Infuzija",
+          "Sukėlėjas",
+          "Ciklotimija",
+          "Amnezija",
+          "ß-amiloidas",
+          "Ketonemija",
+          "Audinys",
+          "Kaukolė"
+      ]
+  },
+  {
+      "Group": "Group 291",
+      "Words": [
+          "Badavimas",
+          "Perdozavimas",
+          "Arklio uodega",
+          "Šlaplė",
+          "Diurezė",
+          "Segmentektomija",
+          "Antibiotikograma",
+          "ŠKL"
+      ]
+  },
+  {
+      "Group": "Group 292",
+      "Words": [
+          "Pectus excavatum",
+          "Erkės",
+          "Pedofilija",
+          "Smegenų pusrutuliai",
+          "Diafragmos nervas",
+          "Citoplazma",
+          "Psoriazinis artritas",
+          "Pokrūvis"
+      ]
+  },
+  {
+      "Group": "Group 293",
+      "Words": [
+          "Agonistai",
+          "ABCDE",
+          "Pirštakaulis",
+          "Valsalvos mėginys",
+          "Plaučių kamienas",
+          "Skubi operacija",
+          "Žirnis",
+          "Bilirubinas"
+      ]
+  },
+  {
+      "Group": "Group 294",
+      "Words": [
+          "Migrena",
+          "Metanolis",
+          "Helmintai",
+          "Stemplė",
+          "Topoizomerazė",
+          "Asistolija",
+          "Rega",
+          "Urtikarija"
+      ]
+  },
+  {
+      "Group": "Group 295",
+      "Words": [
+          "Žirklės",
+          "Kalcitriolis",
+          "Bradikardija",
+          "C. trachomatis",
+          "Interoreceptoriai",
+          "Depresija",
+          "Cisplatina",
+          "Atipinė pneumonija"
+      ]
+  },
+  {
+      "Group": "Group 296",
+      "Words": [
+          "Uoslės stormuo",
+          "Pikacizmas",
+          "Dviragė gimda",
+          "Obstipacija",
+          "Metronidazolis",
+          "Hiperkalciurija",
+          "Hemopoezė",
+          "Antiagregantai"
+      ]
+  },
+  {
+      "Group": "Group 297",
+      "Words": [
+          "Drėgni karkalai",
+          "Sąnario kapsulė",
+          "Zidovudinas",
+          "Noragas",
+          "Hornerio sindromas",
+          "Monocitas",
+          "Autopsija",
+          "Botoksas"
+      ]
+  },
+  {
+      "Group": "Group 298",
+      "Words": [
+          "Hidrocefalija",
+          "Lazdelės",
+          "Kumbso reakcija",
+          "Serodiagnostika",
+          "Fotopsija",
+          "Egzoftalmas",
+          "INR",
+          "Proteoglikanai"
+      ]
+  },
+  {
+      "Group": "Group 299",
+      "Words": [
+          "Imunogenai",
+          "Atviras lūžis",
+          "B limfocitas",
+          "Chlorotiazidas",
+          "IgE",
+          "Atorvastatinas",
+          "Artemizininas",
+          "Proteinurija"
+      ]
+  },
+  {
+      "Group": "Group 300",
+      "Words": [
+          "Hipnotikai",
+          "Miorelaksantai",
+          "Leukocitozė",
+          "Bicepsas",
+          "Šokas",
+          "Nefrolitiazė",
+          "Kolagenas",
+          "Gangrena"
+      ]
+  },
+  {
+      "Group": "Group 301",
+      "Words": [
+          "Enkefalinai",
+          "Lytinės lūpos",
+          "Onichofagija",
+          "Švelnusis dangalas",
+          "Tomosintezė",
+          "Kapoši sarkoma",
+          "Parazitozės",
+          "Diabetologas"
+      ]
+  },
+  {
+      "Group": "Group 302",
+      "Words": [
+          "Dermatomiozitas",
+          "Kraujagyslė",
+          "Konjunktyvitas",
+          "Vandenilis",
+          "Antiseptika",
+          "Spalinė",
+          "Neurogliocitas",
+          "Onkodermatologas"
+      ]
+  },
+  {
+      "Group": "Group 303",
+      "Words": [
+          "Speninė atauga",
+          "Hiperinsulinizmas",
+          "KMI",
+          "Hiperlipoproteinemija",
+          "Oftalmologas",
+          "Koprostazė",
+          "Gimda",
+          "Pioderma"
+      ]
+  },
+  {
+      "Group": "Group 304",
+      "Words": [
+          "Neuronas",
+          "Panmielozė",
+          "Gliklazidas",
+          "Padikaulis",
+          "Siderofagas",
+          "Miežis",
+          "Hemofiltracija",
+          "Apyvarpė"
+      ]
+  },
+  {
+      "Group": "Group 305",
+      "Words": [
+          "Kardioplegija",
+          "Perimiokarditas",
+          "Organelės",
+          "Smegenėlės",
+          "Tachifilaksija",
+          "Balanitas",
+          "Reabilitologas",
+          "Delyras"
+      ]
+  },
+  {
+      "Group": "Group 306",
+      "Words": [
+          "Tikroji policitemija",
+          "Hemoragija",
+          "Mioglobinurija",
+          "Žastikaulis",
+          "Gyvsidabris",
+          "Primakvinas",
+          "Vorikonazolis",
+          "Osteoblastas"
+      ]
+  },
+  {
+      "Group": "Group 307",
+      "Words": [
+          "Šienligė",
+          "Nervų rezginys",
+          "Fibroadenoma",
+          "Analgetikai",
+          "Kvėpavimo sistema",
+          "Akiplotis",
+          "Mikčiojimas",
+          "Mebendazolas"
+      ]
+  },
+  {
+      "Group": "Group 308",
+      "Words": [
+          "Heparinas",
+          "Šeimos anamnezė",
+          "GMO",
+          "Hipoksemija",
+          "Serotoninas",
+          "Makrosomija",
+          "Boerhaave sindromas",
+          "Dopaminas"
+      ]
+  },
+  {
+      "Group": "Group 309",
+      "Words": [
+          "Momenkaulis",
+          "Kušingo sindromas",
+          "Pulmonologas",
+          "Opioidai",
+          "Glomerulonefritas",
+          "Testosteronas",
+          "Vazektomija",
+          "Lipidograma"
+      ]
+  },
+  {
+      "Group": "Group 310",
+      "Words": [
+          "Hiperkinezija",
+          "Makroglosija",
+          "Nitritai",
+          "Mėgintuvėlis",
+          "Kono sindromas",
+          "Modafinilis",
+          "Adisono liga",
+          "Elektroforezė"
+      ]
+  },
+  {
+      "Group": "Group 311",
+      "Words": [
+          "Bifosfonatai",
+          "Gaureliai",
+          "Intubacija",
+          "RNR",
+          "Aortografija",
+          "Švanoma",
+          "Plokštieji kaulai",
+          "L. monocytogenes"
+      ]
+  },
+  {
+      "Group": "Group 312",
+      "Words": [
+          "Dubenkaulis",
+          "Aortos lankas",
+          "ŪIFN",
+          "Angiosarkoma",
+          "Hipokapnija",
+          "E621",
+          "Transudatas",
+          "Ribosoma"
+      ]
+  },
+  {
+      "Group": "Group 313",
+      "Words": [
+          "Sklerodermija",
+          "Skilvelinis ritmas",
+          "Dekompensacija",
+          "Teismo medicina",
+          "Veloergometrija",
+          "PSO",
+          "Spondilolistezė",
+          "Siklemija"
+      ]
+  },
+  {
+      "Group": "Group 314",
+      "Words": [
+          "Savižudybė",
+          "Stroma",
+          "Epidurinė hematoma",
+          "Monoplegija",
+          "P pulmonale",
+          "Emocijos",
+          "Geltonkūnis",
+          "hCG"
+      ]
+  },
+  {
+      "Group": "Group 315",
+      "Words": [
+          "BaSO4",
+          "Anaerobai",
+          "Liaukos",
+          "Tazocinas",
+          "Fondaparinuksas",
+          "Urosepsis",
+          "Penicilinai",
+          "Silpnaprotystė"
+      ]
+  },
+  {
+      "Group": "Group 316",
+      "Words": [
+          "Splenomegalija",
+          "Klausomieji kauliukai",
+          "Sindromas",
+          "Antidotas",
+          "Ligotumas",
+          "Atsirūgimas",
+          "Kineziterapeutas",
+          "Stuburas"
+      ]
+  },
+  {
+      "Group": "Group 317",
+      "Words": [
+          "Ekchimozė",
+          "RKTS",
+          "Fasciotomija",
+          "SJS",
+          "Hiperhidratacija",
+          "SPS",
+          "Flatulencija",
+          "Kraujospūdis"
+      ]
+  },
+  {
+      "Group": "Group 318",
+      "Words": [
+          "Amenorėja",
+          "Kaktikaulis",
+          "Katabolizmas",
+          "Kiaulytė",
+          "Acetilcholinas",
+          "Hiperpoliarizacija",
+          "Laivakaulis",
+          "DATL"
+      ]
+  },
+  {
+      "Group": "Group 319",
+      "Words": [
+          "Bendrinė nejautra",
+          "Branduolėlis",
+          "Mikrocitozė",
+          "RICE",
+          "Nobelio premija",
+          "Pralidoksimas",
+          "Tetraciklinai",
+          "Anafilaksija"
+      ]
+  },
+  {
+      "Group": "Group 320",
+      "Words": [
+          "Verapamilis",
+          "Osteoporozė",
+          "Hematokritas",
+          "Biotransformacija",
+          "Plazmocitas",
+          "Opistotonusas",
+          "Efedrinas",
+          "Siūlės branduoliai"
+      ]
+  },
+  {
+      "Group": "Group 321",
+      "Words": [
+          "Oksigenoterapija",
+          "PTH",
+          "Eklampsija",
+          "Artralgija",
+          "Stacionaras",
+          "Tetraciklinas",
+          "Sarkoidozė",
+          "Digitalinis tyrimas"
+      ]
+  },
+  {
+      "Group": "Group 322",
+      "Words": [
+          "ESBL",
+          "Cistoskopija",
+          "Limfadenopatija",
+          "Koksartrozė",
+          "Smegenų žievė",
+          "Inervacija",
+          "Epiteliocitas",
+          "Fotoreceptoriai"
+      ]
+  },
+  {
+      "Group": "Group 323",
+      "Words": [
+          "ANA",
+          "Skausmingumas",
+          "Gerklos",
+          "Krūtinkaulis",
+          "Kasos lipazė",
+          "Frigidiškumas",
+          "Buferinė sistema",
+          "Registras"
+      ]
+  },
+  {
+      "Group": "Group 324",
+      "Words": [
+          "Cochrane",
+          "Metotreksatas",
+          "Hemolizė",
+          "Insomnija",
+          "Autoantigenai",
+          "Gadolinis",
+          "Patoanatomija",
+          "Ylinė atauga"
+      ]
+  },
+  {
+      "Group": "Group 325",
+      "Words": [
+          "Kontrolinė grupė",
+          "Švinas",
+          "Magnis",
+          "Hiposmija",
+          "Pasąmonė",
+          "Epiglotitas",
+          "L. interrogans",
+          "Fagocitozė"
+      ]
+  },
+  {
+      "Group": "Group 326",
+      "Words": [
+          "Osteosarkoma",
+          "Hemotoraksas",
+          "Toksoplazmozė",
+          "FISH",
+          "Hipochromija",
+          "Hemoglobinurija",
+          "Analgezija",
+          "Glikoproteinai"
+      ]
+  },
+  {
+      "Group": "Group 327",
+      "Words": [
+          "Prostaglandinai",
+          "Ištvermė",
+          "Audiometrija",
+          "Nekrektomija",
+          "Nociceptoriai",
+          "Nanizmas",
+          "Letargija",
+          "Angiopatija"
+      ]
+  },
+  {
+      "Group": "Group 328",
+      "Words": [
+          "Kardiotoksiškumas",
+          "Meningokokas",
+          "Skalpelis",
+          "Būgnelis",
+          "Neutrofilija",
+          "Autizmas",
+          "Pancitopenija",
+          "Glikolizė"
+      ]
+  },
+  {
+      "Group": "Group 329",
+      "Words": [
+          "Dispepsija",
+          "Granuliacinis audinys",
+          "Poliežuvinis kaulas",
+          "Procedūra",
+          "COX",
+          "Skilvelių virpėjimas",
+          "Alergijos maršas",
+          "Dermatomikozės"
+      ]
+  },
+  {
+      "Group": "Group 330",
+      "Words": [
+          "Zanamiviras",
+          "Hiperkeratozė",
+          "Prodromas",
+          "Klizma",
+          "Laboratorija",
+          "Komplikacija",
+          "Inseminacija",
+          "Tiltas"
+      ]
+  },
+  {
+      "Group": "Group 331",
+      "Words": [
+          "Cholecistektomija",
+          "Dezinfektantas",
+          "Glutamatas",
+          "Krūtinplėvė",
+          "HSV-2",
+          "Mikroskopas",
+          "Dapagliflozinas",
+          "Panikos sutrikimas"
+      ]
+  },
+  {
+      "Group": "Group 332",
+      "Words": [
+          "Crush sindromas",
+          "Teofilinas",
+          "Klitoromegalija",
+          "Raudonukė",
+          "Gliosarkoma",
+          "Elastinas",
+          "Transkripcija",
+          "Eukariotai"
+      ]
+  },
+  {
+      "Group": "Group 333",
+      "Words": [
+          "Karbidopa",
+          "Gastroenterologas",
+          "Klaudikacija",
+          "HbA1C",
+          "Spastiškumas",
+          "Metildopa",
+          "Filgrastimas",
+          "Metilksantinai"
+      ]
+  },
+  {
+      "Group": "Group 334",
+      "Words": [
+          "HeartMate",
+          "Dekortikacija",
+          "Subfebrilitetas",
+          "Vėžio žymenys",
+          "Pusgyslinis raumuo",
+          "Hidrofilinis",
+          "Trigliceridai",
+          "Intersticiumas"
+      ]
+  },
+  {
+      "Group": "Group 335",
+      "Words": [
+          "Keturkalnis",
+          "Oksitocinas",
+          "Fizioterapija",
+          "Uremija",
+          "Auskultacija",
+          "Placenta",
+          "Venulė",
+          "Nefroblastoma"
+      ]
+  },
+  {
+      "Group": "Group 336",
+      "Words": [
+          "Sekretas",
+          "Keloidas",
+          "Euvolemija",
+          "Glikogenas",
+          "Gliukagonas",
+          "ACC",
+          "Paliatyvi operacija",
+          "Knarkimas"
+      ]
+  },
+  {
+      "Group": "Group 337",
+      "Words": [
+          "S. pyogenes",
+          "Maisto priedai",
+          "Inotropai",
+          "Plazminas",
+          "Sterkobilinas",
+          "Skundai",
+          "Penicilinas V",
+          "Parenteriškai"
+      ]
+  },
+  {
+      "Group": "Group 338",
+      "Words": [
+          "Organizacija",
+          "Pepsinas",
+          "Smilkinkaulis",
+          "Pastojimas",
+          "Infuzoterapija",
+          "Broka zona",
+          "Urokinazė",
+          "Citostatikai"
+      ]
+  },
+  {
+      "Group": "Group 339",
+      "Words": [
+          "QRS kompleksas",
+          "Melanotropinas",
+          "Leukopenija",
+          "Dozavimas",
+          "Dauginė mieloma",
+          "EKG derivacijos",
+          "Gliukozurija",
+          "Citozolis"
+      ]
+  },
+  {
+      "Group": "Group 340",
+      "Words": [
+          "Antibiotikai",
+          "Maliarija",
+          "Miometriumas",
+          "Koagulopatija",
+          "Trombocitopatija",
+          "Dieta",
+          "H. capsulatum",
+          "Kiaušidės"
+      ]
+  },
+  {
+      "Group": "Group 341",
+      "Words": [
+          "Sifilis",
+          "Sąnario repozicija",
+          "R dantelis",
+          "Kurkuminas",
+          "Bronchektazės",
+          "Gliukagonoma",
+          "Polineuropatija",
+          "Doplerografija"
+      ]
+  },
+  {
+      "Group": "Group 342",
+      "Words": [
+          "Mamografija",
+          "Psichofarmakoterapija",
+          "Gaktinė sąvarža",
+          "Pinealocitas",
+          "Hipovolemija",
+          "S. agalactiae",
+          "Pirmoji pagalba",
+          "Estriolis"
+      ]
+  },
+  {
+      "Group": "Group 343",
+      "Words": [
+          "Disulfiramas",
+          "BŠT",
+          "Neutrofilas",
+          "Pneumonitas",
+          "Bronchoskopija",
+          "NASSA",
+          "Restitucija",
+          "Otitas"
+      ]
+  },
+  {
+      "Group": "Group 344",
+      "Words": [
+          "Reabilitacija",
+          "Kancerogenas",
+          "Niktalopija",
+          "Klonas",
+          "Podagra",
+          "Mikrobiologas",
+          "Plintantis skausmas",
+          "Oksacilinas"
+      ]
+  },
+  {
+      "Group": "Group 345",
+      "Words": [
+          "Kardiomiopatija",
+          "Acikloviras",
+          "Tortikolis",
+          "Klinika",
+          "Celiakografija",
+          "Kadmis",
+          "Skrandžio dugnas",
+          "Gonadoliberinas"
+      ]
+  },
+  {
+      "Group": "Group 346",
+      "Words": [
+          "Abortas",
+          "Robotinė chirurgija",
+          "Mioglobinas",
+          "CD4",
+          "Pakauškaulis",
+          "Tiroidektomija",
+          "Leiomioma",
+          "Alopurinolis"
+      ]
+  },
+  {
+      "Group": "Group 347",
+      "Words": [
+          "Folio rūgštis",
+          "Genitalijos",
+          "Osteopenija",
+          "Nosies kriauklė",
+          "TNM klasifikacija",
+          "Eksikozė",
+          "Antikūnai",
+          "Drenas"
+      ]
+  },
+  {
+      "Group": "Group 348",
+      "Words": [
+          "Bursitas",
+          "Nefrozinis sindromas",
+          "Septinis artritas",
+          "Sąstingis",
+          "2 tipo CD",
+          "Dermatomai",
+          "Mechanoreceptoriai",
+          "Flebolitas"
+      ]
+  },
+  {
+      "Group": "Group 349",
+      "Words": [
+          "Psichologas",
+          "Osteofitai",
+          "Hepatitas D",
+          "Avulsinis lūžis",
+          "Injekcija",
+          "Skorbutas",
+          "CD8",
+          "Mezotelioma"
+      ]
+  },
+  {
+      "Group": "Group 350",
+      "Words": [
+          "Grybiniai speneliai",
+          "Delnų eritema",
+          "Dažikliai",
+          "Biobankas",
+          "Anoreksija",
+          "Karbamazepinas",
+          "Aspergiliozė",
+          "Neįgalumas"
+      ]
+  },
+  {
+      "Group": "Group 351",
+      "Words": [
+          "Išemija",
+          "Torazemidas",
+          "Goldžio aparatas",
+          "Centrinis kanalas",
+          "Mioklonija",
+          "Šonkauliai",
+          "Saldikliai",
+          "Otoskopija"
+      ]
+  },
+  {
+      "Group": "Group 352",
+      "Words": [
+          "ADHD",
+          "Epilepsija",
+          "Polisacharidai",
+          "Astrocitas",
+          "Supinacija",
+          "Nosies pertvara",
+          "Plautinės venos",
+          "Kušingo liga"
+      ]
+  },
+  {
+      "Group": "Group 353",
+      "Words": [
+          "Cefadroksilis",
+          "Širdis",
+          "Peristaltika",
+          "Hialurono rūgštis",
+          "Somatotropinas",
+          "Transferinas",
+          "Ependimocitas",
+          "UV spinduliai"
+      ]
+  },
+  {
+      "Group": "Group 354",
+      "Words": [
+          "Orchipeksija",
+          "Paviršinės venos",
+          "Piruvatas",
+          "Tanžero liga",
+          "Paraktinė arterija",
+          "Postcentrinis vingis",
+          "Substitucija",
+          "Profilaktika"
+      ]
+  },
+  {
+      "Group": "Group 355",
+      "Words": [
+          "Aknė",
+          "Klinicistas",
+          "Kolbelės",
+          "Progesteronas",
+          "Iliuzijos",
+          "Hipofizės adenoma",
+          "Petechijos",
+          "Lumbalgija"
+      ]
+  }
+]

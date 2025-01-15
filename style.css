@@ -12,6 +12,18 @@ body {
     background-size: cover;
 }
 
+.welcome button {
+    border-radius: 15px;
+    margin: 15px;
+    padding: 15px;
+    background-color: #5b4caf;
+    color: white;
+    border: none;
+    width: 70%;
+    text-align: center;
+    text-decoration: none;
+}
+
 .container {
     position: relative;
     width: 320px;

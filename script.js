@@ -1,37 +1,45 @@
 
 const routes = {
 
-    welcomePage: `<h1>Welcome to the Home Page</h1>
-                <p>This is the main page of our app.</p>
+    welcomePage: `
+        <div class="logo">
+            <img src="media/Dr. Knows.png" alt="Logo" width="200"> 
+        </div>
+        <h1>Welcome to the Home Page</h1>
+        <p>This is the main page of our app.</p>
+        <span class="welcome"><button onclick="location.href = '#mainPage'">Next page</button></span>
     `,
 
     mainPage: `
-                <div class="counter">
-                        Go to card: 
-                        <input type="number" id="cardInput" min="1" placeholder="#">
-                        <button onclick="goToCard()">Go</button>
-                        <span>| Card <span id="currentCard">1</span> of <span id="totalCards">0</span></span>
-                    </div>
+        <div class="counter">
+            Go to card: 
+            <input type="number" id="cardInput" min="1" placeholder="#">
+            <button onclick="goToCard()">Go</button>
+            <span>| Card <span id="currentCard">1</span> of <span id="totalCards">0</span></span>
+        </div>
 
-                    <div class="nav-controls">
-                        <button class="random-btn" onclick="goToRandomCard()">
-                            Random Card
-                        </button>
-                    </div>
+        <div class="nav-controls">
+            <button class="random-btn" onclick="goToRandomCard()">
+                Random Card
+            </button>
+        </div>
 
-                    <div class="nav-arrow prev" onclick="navigateCards('prev')">←</div>
-                    <div class="nav-arrow next" onclick="navigateCards('next')">→</div>
-                    <div class="container" id="cardContainer">
-                    </div>
-                    <div class="instructions">Swipe, use arrows, or type card number to navigate</div>
+        <div class="nav-arrow prev" onclick="navigateCards('prev')">←</div>
+        <div class="nav-arrow next" onclick="navigateCards('next')">→</div>
+        <div class="container" id="cardContainer"></div>
+        <div class="instructions">Swipe, use arrows, or type card number to navigate</div>
         `,
 };
 
 const blankCanvas = document.getElementById('blankCanvas');
 
 function renderWholePage() {
-    const hash = location.hash.slice(1); // Remove the '#' from the hash
+    const hash = location.hash.slice(1) || 'welcomePage'; // Remove the '#' from the hash
     blankCanvas.innerHTML = routes[hash] || `<h1>404</h1><p>Page not found.</p>`;
+
+    if (hash === 'mainPage') {
+        fetchAndRenderCards();;
+    }
 }
 
 window.addEventListener('hashchange', renderWholePage);
@@ -162,7 +170,7 @@ async function fetchAndRenderCards() {
     }
 }
 
-fetchAndRenderCards();
+
 
 
 function updateArrows() {

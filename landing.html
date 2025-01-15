@@ -4,14 +4,76 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #7fb1e7;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            height: 100vh;
+        }
+        .logo {
+            margin: 20px;
+            display: flex;
+            justify-content: center;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .nextButton {
+            border-radius: 15px;
+            margin: 15px;
+            padding: 15px;
+            background-color: #5b4caf;
+            color: white;
+            border: none;
+            width: 70%;
+            text-align: center;
+            text-decoration: none;
+        }
+    </style>
 </head>
 <body>
-    <main>
+    <main id="app">
 
     </main>
     
     <script>
-        
+        const routes = {
+            home: `
+                <div class="logo">
+                    <img src="media/Dr. Knows.png" alt="Logo" width="200">
+                    <a href="#about" class="nextButton">Next page</a>
+                </div>
+                
+                
+            `,
+            about: `
+                <div class="logo">
+                    <h1>About Us</h1>
+                    <p>This app demonstrates a simple SPA.</p>
+                    <a href="#home" class="nextButton">Return</a>
+                </div>
+
+            `,
+            contact: `
+                <h1>Contact Us</h1>
+                <p>Email us at: example@app.com</p>
+            `,
+        };
+
+        const app = document.getElementById('app');
+
+        function render() {
+            const hash = location.hash.slice(1) || 'home'; // Remove the '#' from the hash
+            app.innerHTML = routes[hash] || `<h1>404</h1><p>Page not found.</p>`;
+        }
+
+        window.addEventListener('hashchange', render);
+
+        render();
     </script>
 
 </body>

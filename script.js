@@ -49,7 +49,6 @@ renderWholePage();
 
 
 
-
 let wordGroups = [];
 let currentIndex = 0;
 
